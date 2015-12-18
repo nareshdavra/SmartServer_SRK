@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib\spacecode_sdk.jar
+Main-Class: com.spacecode.smartserver.SmartServer
+

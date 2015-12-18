@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="common-lang3" />
+  <library name="spacecode_sdk">
+    <archive path="E:/DropBOX/Dropbox/SmartServer_SRK/lib/spacecode_sdk.jar" />
+  </library>
+  <library name="spacecode_sdk">
+    <archive path="E:/DropBOX/Dropbox/SmartServer_SRK/lib/spacecode_sdk.jar" />
+  </library>
+  <library name="SmartServer">
+    <archive path="E:/DropBOX/Dropbox/SmartServer_SRK/out/artifacts/SmartServer_NoDB_jar/SmartServer.jar" />
+  </library>
+</eclipse-userlibraries>
+
