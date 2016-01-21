@@ -1,0 +1,62 @@
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\TcpIP_class.dll
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\TcpIP_class.pdb
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\DataClass.dll
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\DBClass.dll
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\ErrorMessage.dll
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_Fingerprint.dll
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_MedicalCabinet.dll
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_RfidReader.dll
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_RFID_Devices.dll
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\DPFPVerNET.dll
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_AccessControl.dll
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\DataClass.pdb
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\ErrorMessage.pdb
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\DBClass.pdb
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_Fingerprint.pdb
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_MedicalCabinet.pdb
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_RfidReader.pdb
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_RfidReader.xml
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_RFID_Devices.pdb
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_RFID_Devices.xml
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_AccessControl.pdb
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\obj\Debug\TcpIP_class.csprojResolveAssemblyReference.cache
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\obj\Debug\TcpIP_class.dll
+Z:\DEV SOFT\REPO_CSHARP\SmartTracker2013\SmartTracker2013-devA\SDK\TcpIP_class\obj\Debug\TcpIP_class.pdb
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\obj\Debug\TcpIP_class.csprojResolveAssemblyReference.cache
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\obj\Debug\TcpIP_class.dll
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\TcpIP_class.dll
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\TcpIP_class.pdb
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\DataClass.dll
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\DBClass.dll
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\ErrorMessage.dll
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_Fingerprint.dll
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_MedicalCabinet.dll
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_RfidReader.dll
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_RFID_Devices.dll
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\DPFPVerNET.dll
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_AccessControl.dll
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\DataClass.pdb
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\ErrorMessage.pdb
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\DBClass.pdb
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_Fingerprint.pdb
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_MedicalCabinet.pdb
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_RfidReader.pdb
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_RfidReader.xml
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_RFID_Devices.pdb
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_RFID_Devices.xml
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\bin\Debug\SDK_SC_AccessControl.pdb
+C:\Users\MY\AppData\Roaming\Skype\My Skype Received Files\SmartTracker2013-devA\SmartTracker2013-devA\SDK\TcpIP_class\obj\Debug\TcpIP_class.pdb
+C:\Users\MY\Desktop\dotNet_USB_SBR_Sample\dotNet_USB_SBR2\TcpIP_class\bin\Debug\TcpIP_class.dll
+C:\Users\MY\Desktop\dotNet_USB_SBR_Sample\dotNet_USB_SBR2\TcpIP_class\bin\Debug\TcpIP_class.pdb
+C:\Users\MY\Desktop\dotNet_USB_SBR_Sample\dotNet_USB_SBR2\TcpIP_class\obj\Debug\TcpIP_class.dll
+C:\Users\MY\Desktop\dotNet_USB_SBR_Sample\dotNet_USB_SBR2\TcpIP_class\obj\Debug\TcpIP_class.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\TcpIP_class\bin\Debug\TcpIP_class.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\TcpIP_class\bin\Debug\TcpIP_class.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\TcpIP_class\obj\Debug\TcpIP_class.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\TcpIP_class\obj\Debug\TcpIP_class.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\TcpIP_class\bin\Debug\log4net.xml
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\TcpIP_class\obj\Debug\TcpIP_class.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\TcpIP_class\bin\Debug\TcpIP_class.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\TcpIP_class\bin\Debug\TcpIP_class.pdb
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\TcpIP_class\obj\Debug\TcpIP_class.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\TcpIP_class\obj\Debug\TcpIP_class.pdb

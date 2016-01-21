@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ControlLib</name>
+    </assembly>
+    <members>
+        <member name="T:ControlLib.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ControlLib.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ControlLib.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:ControlLib.Properties.Resources.camera2">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ControlLib.Properties.Resources.Certificate">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ControlLib.Properties.Resources.download">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ControlLib.Properties.Resources.ha">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ControlLib.Properties.Resources.movie">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:ControlLib.Rfid.RfidReader.MessageDisplayPosition">
+            <summary>
+            Message Display Position
+            </summary>
+        </member>
+        <member name="P:ControlLib.Rfid.RfidReader.WidthButton">
+            <summary>
+            Button Width
+            </summary>
+        </member>
+        <member name="P:ControlLib.Rfid.RfidReader.WidthRfidCount">
+            <summary>
+            Rfid Counter Width
+            </summary>
+        </member>
+        <member name="P:ControlLib.Rfid.RfidReader.RFIDIPAddress">
+            <summary>
+            RFID Ip Address
+            </summary>
+        </member>
+        <member name="P:ControlLib.Rfid.RfidReader.SpaceCodeIPList">
+            <summary>
+            Space Code IP List With Comma(,) Seperated.
+            </summary>
+        </member>
+        <member name="P:ControlLib.Rfid.RfidReader.RfidTagList">
+            <summary>
+            Rfid Tag List
+            </summary>
+        </member>
+        <member name="F:ControlLib.Rfid.RfidReader.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ControlLib.Rfid.RfidReader.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ControlLib.Rfid.RfidReader.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:ControlLib.UCtrlSendToProcess.StoneIdList">
+            <summary>
+            StoneId List
+            </summary>
+        </member>
+        <member name="F:ControlLib.UCtrlSendToProcess.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ControlLib.UCtrlSendToProcess.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ControlLib.UCtrlSendToProcess.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:ControlLib.UltraTabControl.ResetProperty">
+            <summary>
+            Reset Default Property
+            </summary>
+        </member>
+        <member name="F:ControlLib.UltraTabControl.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ControlLib.UltraTabControl.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ControlLib.UltraTabControl.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>

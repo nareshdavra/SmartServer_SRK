@@ -1,0 +1,353 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Infragistics4.Documents.Core.v13.2</name>
+    </assembly>
+    <members>
+        <member name="F:Infragistics.Imaging.ImageFormat.BmpGuid">
+            <summary>
+            Gets the bitmap (BMP) image format.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Imaging.ImageFormat.DibGuid">
+            <summary>
+            Gets the Device-Independent Bitmap (DIB) image format.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Imaging.ImageFormat.EmfGuid">
+            <summary>
+            Gets the enhanced metafile (EMF) image format.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Imaging.ImageFormat.GifGuid">
+            <summary>
+            Gets the Graphics Interchange Format (GIF) image format.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Imaging.ImageFormat.JpegGuid">
+            <summary>
+            Gets the Joint Photographic Experts Group (JPEG) image format.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Imaging.ImageFormat.PngGuid">
+            <summary>
+            Gets the W3C Portable Network Graphics (PNG) image format.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Imaging.ImageFormat.TiffGuid">
+            <summary>
+            Gets the Tagged Image File Format (TIFF) image format.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Imaging.ImageFormat.WmfGuid">
+            <summary>
+            Gets the Windows metafile (WMF) image format.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Imaging.ImageFormat.Bmp">
+            <summary>
+            Static variable for Bmp image format
+            </summary>
+        </member>
+        <member name="F:Infragistics.Imaging.ImageFormat.Dib">
+            <summary>
+            Static variable for Dib image format
+            </summary>
+        </member>
+        <member name="F:Infragistics.Imaging.ImageFormat.Emf">
+            <summary>
+            Static variable for Emf image format
+            </summary>
+        </member>
+        <member name="F:Infragistics.Imaging.ImageFormat.Gif">
+            <summary>
+            Static variable for Gif image format
+            </summary>
+        </member>
+        <member name="F:Infragistics.Imaging.ImageFormat.Jpeg">
+            <summary>
+            Static variable for Jpeg image format
+            </summary>
+        </member>
+        <member name="F:Infragistics.Imaging.ImageFormat.Png">
+            <summary>
+            Static variable for Png image format
+            </summary>
+        </member>
+        <member name="F:Infragistics.Imaging.ImageFormat.Tiff">
+            <summary>
+            Static variable for Tiff image format
+            </summary>
+        </member>
+        <member name="F:Infragistics.Imaging.ImageFormat.Wmf">
+            <summary>
+            Static variable for Wmf image format
+            </summary>
+        </member>
+        <member name="M:Infragistics.Imaging.ImageFormat.#ctor(System.Guid)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Infragistics.Imaging.ImageFormat"/> class.
+            </summary>
+            <param name="formatGuid">The <see cref="P:Infragistics.Imaging.ImageFormat.Guid"/> used to identify this <see cref="T:Infragistics.Imaging.ImageFormat"/>.</param>
+        </member>
+        <member name="P:Infragistics.Imaging.ImageFormat.Guid">
+            <summary>
+            Gets the <see cref="P:Infragistics.Imaging.ImageFormat.Guid"/> that identifies this <see cref="T:Infragistics.Imaging.ImageFormat"/>
+            </summary>
+        </member>
+        <member name="T:Infragistics.Shared.AssemblyVersion">
+            <summary>
+            Contains version information for the Infragistics assemblies.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Shared.AssemblyVersion.MajorMinor">
+            <summary>
+            Major.Minor number portion of the assembly version
+            </summary>
+        </member>
+        <member name="F:Infragistics.Shared.AssemblyVersion.Build">
+            <summary>
+            Build number portion of the assembly version
+            </summary>
+        </member>
+        <member name="F:Infragistics.Shared.AssemblyVersion.Revision">
+            <summary>
+            Revision number portion of the assembly version
+            </summary>
+        </member>
+        <member name="F:Infragistics.Shared.AssemblyVersion.Version">
+            <summary>
+            Assembly version number
+            </summary>
+        </member>
+        <member name="F:Infragistics.Shared.AssemblyVersion.ToolBoxBitmapFolder">
+            <summary>
+            Location of the resources for toolbox bitmaps. 
+            </summary>
+        </member>
+        <member name="F:Infragistics.Shared.AssemblyVersion.CompanyName">
+            <summary>
+            Assembly company name
+            </summary>
+        </member>
+        <member name="F:Infragistics.Shared.AssemblyVersion.EndCopyrightYear">
+            <summary>
+            End year of assembly copyright
+            </summary>
+        </member>
+        <member name="F:Infragistics.Shared.AssemblyVersion.SatelliteContractVersion">
+            <summary>
+            The assembly version number for the satellite assemblies.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Shared.AssemblyVersion.Configuration">
+            <summary>
+            The current build configuration for the assembly.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Documents.OfficeOpenXml.Core.OfficeDocumentManager.GetConformance">
+            <summary>
+            Gets the conformance of the document if it hasn't been specified in the constructor.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Documents.OfficeOpenXml.Core.OfficeDocumentManager.ZipPackage">
+            <summary>
+            Gets the zip package from which to load/save the document.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Documents.OfficeOpenXml.Word.WordDocumentManager.GetConformance">
+            <summary>
+            Gets the conformance of the document if it hasn't been specified in the constructor.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Documents.Core.Packaging.IPackageFactory">
+            <summary>
+            Factory class used to create an IPackage given a stream and a FileMode
+            </summary>
+        </member>
+        <member name="M:Infragistics.Documents.Core.Packaging.IPackageFactory.Open(System.IO.Stream,System.IO.FileMode)">
+            <summary>
+            Opens an IPackage with a given IO stream and file mode.
+            </summary>
+            <param name="stream">The IO stream on which to open the IPackage.</param>
+            <param name="packageMode">The file mode in which to open the IPackage.</param>
+            <returns>The opened IPackage.</returns>
+        </member>
+        <member name="T:Infragistics.Documents.Core.Packaging.IPackage">
+            <summary>
+            Represents a container that can store multiple data objects.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Documents.Core.Packaging.IPackage.CreatePart(System.Uri,System.String)">
+            <summary>
+            Creates a new uncompressed part with a given URI and content type.
+            </summary>
+            <param name="partUri">The uniform resource identifier (URI) of the new part.</param>
+            <param name="contentType">The content type of the data stream.</param>
+            <returns>The new created part.</returns>
+        </member>
+        <member name="M:Infragistics.Documents.Core.Packaging.IPackage.CreateRelationship(System.Uri,Infragistics.Documents.Core.Packaging.RelationshipTargetMode,System.String,System.String)">
+            <summary>
+            Creates a package-level relationship to a part with a given URI, target mode, relationship type, and identifier (ID).
+            </summary>
+            <param name="targetUri">The uniform resource identifier (URI) of the target part.</param>
+            <param name="targetMode">Indicates if the target part is System.IO.Packaging.TargetMode.Internal or System.IO.Packaging.TargetMode.External to the package.</param>
+            <param name="relationshipType">A URI that uniquely defines the role of the relationship.</param>
+            <param name="id">A unique XML identifier.</param>
+            <returns>The package-level relationship to the specified part.</returns>
+        </member>
+        <member name="M:Infragistics.Documents.Core.Packaging.IPackage.GetRelationships">
+            <summary>
+            Returns a collection of all the package-level relationships.
+            </summary>
+            <returns>A collection of all the package-level relationships that are contained in the package.</returns>
+        </member>
+        <member name="M:Infragistics.Documents.Core.Packaging.IPackage.GetRelationship(System.String)">
+            <summary>
+            Returns the relationship that has a specified IPackageRelationship.Id.
+            </summary>
+            <param name="id">The IPackageRelationship.Id of the relationship to return.</param>
+            <returns>The relationship that matches the specified id.</returns>
+        </member>
+        <member name="M:Infragistics.Documents.Core.Packaging.IPackage.GetPart(System.Uri)">
+            <summary>
+            Returns the part with a given URI.
+            </summary>
+            <param name="partUri">The uniform resource identifier (URI) of the part to return.</param>
+            <returns>The part with the specified partUri.</returns>        
+        </member>
+        <member name="M:Infragistics.Documents.Core.Packaging.IPackage.GetParts">
+            <summary>
+            Returns a collection of all the parts in the package.
+            </summary>
+            <returns>A collection of all the System.IO.Packaging.PackagePart elements that are contained in the package.</returns>
+        </member>
+        <member name="M:Infragistics.Documents.Core.Packaging.IPackage.PartExists(System.Uri)">
+            <summary>
+            Indicates whether a part with a given URI is in the package.
+            </summary>
+            <param name="partUri">The System.Uri of the part to check for.</param>
+            <returns>true if a part with the specified partUri is in the package; otherwise, false.</returns>
+        </member>
+        <member name="T:Infragistics.Documents.Core.Packaging.IPackagePart">
+            <summary>
+            Provides a base class for parts stored in a System.IO.Packaging.Package. This class is abstract.
+            </summary>
+        </member>
+        <member name="M:Infragistics.Documents.Core.Packaging.IPackagePart.GetStream(System.IO.FileMode,System.IO.FileAccess)">
+            <summary>
+            Returns the part content stream opened with a specified System.IO.FileMode and System.IO.FileAccess.
+            </summary>
+            <param name="mode">The I/O mode in which to open the content stream.</param>
+            <param name="access">The access permissions to use in opening the content stream.</param>
+            <returns>The content stream for the part.</returns>
+        </member>
+        <member name="M:Infragistics.Documents.Core.Packaging.IPackagePart.CreateRelationship(System.Uri,Infragistics.Documents.Core.Packaging.RelationshipTargetMode,System.String,System.String)">
+            <summary>
+            Creates a part-level relationship between this IPackagePart to a specified target IPackagePart or external resource.
+            </summary>
+            <param name="targetUri">The URI of the target part.</param>
+            <param name="targetMode">One of the enumeration values. For example, RelationshipTargetMode.Internal if the target part is inside the IPackage; or RelationshipTargetMode.External if the target is a resource outside the IPackage.</param>
+            <param name="relationshipType">The role of the relationship.</param>
+            <param name="id">A unique ID for the relationship.</param>
+            <returns>The part-level relationship between this IPackagePart to the target IPackagePart or external resource.</returns>
+        </member>
+        <member name="M:Infragistics.Documents.Core.Packaging.IPackagePart.GetRelationships">
+            <summary>
+            Returns a collection of all the relationships that are owned by this part.
+            </summary>
+            <returns>A collection of all the relationships that are owned by the part.</returns>
+        </member>
+        <member name="M:Infragistics.Documents.Core.Packaging.IPackagePart.GetRelationship(System.String)">
+            <summary>
+            Returns the relationship that has a specified IPackageRelationship.Id.
+            </summary>
+            <param name="id">The IPackageRelationship.Id of the relationship to return.</param>
+            <returns>The relationship that matches the specified id.</returns>
+        </member>
+        <member name="P:Infragistics.Documents.Core.Packaging.IPackagePart.Package">
+            <summary>
+            Gets the parent Package of the part.
+            </summary>        
+        </member>
+        <member name="P:Infragistics.Documents.Core.Packaging.IPackagePart.Uri">
+            <summary>
+            Gets the URI of the part.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Documents.Core.Packaging.IPackagePart.ContentType">
+            <summary>
+             Gets the MIME type of the content stream.        
+            </summary>
+        </member>
+        <member name="T:Infragistics.Documents.Core.Packaging.IPackageRelationship">
+            <summary>
+            Represents an association between a source IPackage or IPackagePart, and a target object which can be a IPackagePart or external resource.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Documents.Core.Packaging.IPackageRelationship.SourceUri">
+            <summary>
+            Gets the URI of the package or part that owns the relationship.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Documents.Core.Packaging.IPackageRelationship.TargetUri">
+            <summary>
+            Gets the URI of the target resource of the relationship.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Documents.Core.Packaging.IPackageRelationship.Id">
+            <summary>
+            Gets a string that identifies the relationship.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Documents.Core.Packaging.IPackageRelationship.RelationshipType">
+            <summary>
+            Gets the qualified type name of the relationship.
+            </summary>
+        </member>
+        <member name="P:Infragistics.Documents.Core.Packaging.IPackageRelationship.TargetMode">
+            <summary>
+            Gets a value that indicates whether the target of the relationship is RelationshipTargetMode.Internal or RelationshipTargetMode.External to the IPackage.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Documents.Core.Packaging.RelationshipTargetMode">
+            <summary>
+            Specifies whether the target of an IPackageRelationship is inside or outside the IPackage.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Documents.Core.Packaging.RelationshipTargetMode.Internal">
+            <summary>
+            The relationship references a part that is inside the package.
+            </summary>
+        </member>
+        <member name="F:Infragistics.Documents.Core.Packaging.RelationshipTargetMode.External">
+            <summary>
+            The relationship references a resource that is external to the package.
+            </summary>
+        </member>
+        <member name="T:Infragistics.Documents.Core.Packaging.ContentTypeSaveHandler">
+            <summary>
+            Defines the signature of the method called by the static
+            CreatePartInPackage method to save data to the content type handler.
+            </summary>
+            <param name="manager">The serialization manager, e.g., Excel2007WorkbookSerializationManager</param>
+            <param name="stream">The stream to which the data is serialized.</param>
+            <param name="closeStream">
+            Signifies to the caller whether the stream should be closed after
+            execution returns. Unless the implementing part supports realtime
+            streaming, true should be returned.
+            </param>
+            <param name="popCounterStack">
+            Signifies to the caller whether the partRelationshipsCounter stack
+            should be popped after execution returns from the Save method.
+            </param>
+        </member>
+        <member name="T:Infragistics.Documents.Core.Packaging.IContentType">
+            <summary>
+            Used to decouple the PackageUtilities.CreatePartInPackage method
+            from any specific type, for example, so ContentTypeBase-derived classes
+            can use it as well as WordContentTypeExporterBase-derived classes.
+            </summary>
+        </member>
+    </members>
+</doc>

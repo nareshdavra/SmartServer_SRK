@@ -1,0 +1,3603 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BusLib</name>
+    </assembly>
+    <members>
+        <member name="T:BusLib.Configuration.BOConfiguration">
+            <summary>
+            Project Configuration File
+            </summary>
+        </member>
+        <member name="F:BusLib.Configuration.BOConfiguration.IsTabLayoutEnable">
+            <summary>
+            Tab Document Layout Enable / Disable
+            </summary>
+        </member>
+        <member name="F:BusLib.Configuration.BOConfiguration.mOnlineMainServerConnString">
+            <summary>
+            Stock Server Connection String
+            </summary>
+        </member>
+        <member name="M:BusLib.Configuration.BOConfiguration.CheckFormPer(System.String)">
+            <summary>
+            Check Form Permisison
+            </summary>
+            <param name="pFormName">Form Number</param>
+            <returns></returns>
+        </member>
+        <member name="M:BusLib.Configuration.BOConfiguration.CheckCompRegister">
+            <summary>
+            Check Computer is Register or Not
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:BusLib.Configuration.BOConfiguration.RFIDIPAddress">
+            <summary>
+            RFID Address
+            </summary>
+        </member>
+        <member name="P:BusLib.Configuration.BOConfiguration.SPACECODEIPAddressList">
+            <summary>
+            Space Code Address List
+            </summary>
+        </member>
+        <member name="P:BusLib.Configuration.BOConfiguration.MessageHeading">
+            <summary>
+            Message Heading
+            </summary>
+        </member>
+        <member name="P:BusLib.Configuration.BOConfiguration.MessageCaption">
+            <summary>
+            Message Caption
+            </summary>
+        </member>
+        <member name="P:BusLib.Configuration.BOConfiguration.MessageView">
+            <summary>
+            Message For View
+            </summary>
+        </member>
+        <member name="P:BusLib.Configuration.BOConfiguration.MessageInsert">
+            <summary>
+            Message For Insert
+            </summary>
+        </member>
+        <member name="P:BusLib.Configuration.BOConfiguration.MessageUpdate">
+            <summary>
+            Message For Update
+            </summary>
+        </member>
+        <member name="P:BusLib.Configuration.BOConfiguration.MessageDelete">
+            <summary>
+            Message For Delete
+            </summary>
+        </member>
+        <member name="P:BusLib.Configuration.BOConfiguration.MessageInsertUpdate">
+            <summary>
+            Message For Insert And Update
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.BOSP_MainPage.DataSet">
+            <summary>
+            My Dataset
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.BOSP_MainPage.AlertPopupDetail">
+            <summary>
+            Alert Popup Detail
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.BOSP_MainPage.NotificationDetail">
+            <summary>
+            Notification Detail
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.BOSP_DashBoard.MyClientOnlineOffline">
+            <summary>
+            My Client List Who Are Online/Offline
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.BOSP_HomePage.DataSet">
+            <summary>
+            My Dataset
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.BOSP_HomePage.MyClientBuddies">
+            <summary>
+            My Client Buddies Details
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.BOSP_HomePage.MyEfforts">
+            <summary>
+            My Efforts
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.BOSP_HomePage.MySaleDetail">
+            <summary>
+            My Sale Details
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.BOSP_HomePage.MySaleSummary">
+            <summary>
+            My Sale Summary
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.BOSP_HomePage.HowFantasticsIAm">
+            <summary>
+            How Fantastics I Am
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.DashBoard.BOPartyHistoryLog.PartyList">
+            <summary>
+            Party List
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.DashBoard.BOPartyHistoryLog.LoginSearch">
+            <summary>
+            Login Search Details
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.DashBoard.BOPartyHistoryLog.SearchDetails">
+            <summary>
+            Search Details
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.Home.BOPartyDetail.PartyDetails">
+            <summary>
+            Party Details
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.Home.BOPartyDetail.BrokerDetails">
+            <summary>
+            Broker Details
+            </summary>
+        </member>
+        <member name="P:BusLib.CRM.SalesPerson.Tools.BORemindEntry.MyAllReminder">
+            <summary>
+            My All Reminder Entry For Calendar
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.PartyMast">
+            <summary>
+            Party Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.PersonMast">
+            <summary>
+            Sales Person Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.BuyerMast">
+            <summary>
+            Buyer Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.LotMast">
+            <summary>
+            Lot Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.ShpMast">
+            <summary>
+            Shape Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.ColMast">
+            <summary>
+            Color Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.QuaMast">
+            <summary>
+            Quality Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.CutMast">
+            <summary>
+            Cut Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.FloMast">
+            <summary>
+            Flo Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.PolishMast">
+            <summary>
+            Ploish Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.SymMast">
+            <summary>
+            Symmetry Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.SizeMast">
+            <summary>
+            Size Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.FormEntry">
+            <summary>
+            Form Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.KeySymbolMast">
+            <summary>
+            KeySymbol Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.CommentMast">
+            <summary>
+            Comment Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.DollarMast">
+            <summary>
+            Dollar Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.GradeMast">
+            <summary>
+            Grade Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.NatIncMast">
+            <summary>
+            Natural Inclusion Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.OpnWIncMast">
+            <summary>
+            Open Window Inclusion Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.GrnIncMast">
+            <summary>
+            Granning Inclusion Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.BrnIncMast">
+            <summary>
+            Brown Inclusion Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.LusterMast">
+            <summary>
+            Luster Master
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "P:BusLib.GlbMaster.BOGlbMast.TypeIncMast" -->
+        <!-- Badly formed XML comment ignored for member "P:BusLib.GlbMaster.BOGlbMast.HAMast" -->
+        <member name="P:BusLib.GlbMaster.BOGlbMast.LocationMast">
+            <summary>
+            Location Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.GirdleOpenIncMast">
+            <summary>
+            Girdle Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.RoughMast">
+            <summary>
+            Rough Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.CarriageMast">
+            <summary>
+            Carriage Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.ConfigMast">
+            <summary>
+            Configuration Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.TableIncMast">
+            <summary>
+            Table Inclusion Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.PavilionIncMast">
+            <summary>
+            Pavilion Inclusion Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.RatioMast">
+            <summary>
+            Ratio Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.GirdleMast">
+            <summary>
+            Girdle Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.GirdleParaMast">
+            <summary>
+            Girdle ParaMaster
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.ReviseDaysMast">
+            <summary>
+            Revise Days Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.LabGirdleMast">
+            <summary>
+            Girdle Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.TableMast">
+            <summary>
+            Table Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.TotDepthMast">
+            <summary>
+            Total Depth Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.CrownAngleMast">
+            <summary>
+            Crown Angle Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.PavalionAngleMast">
+            <summary>
+            Pavalion Angle Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.LengthMast">
+            <summary>
+            Length Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.WidthMast">
+            <summary>
+            Width Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.DiameterMast">
+            <summary>
+            Diameter Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.CuletMast">
+            <summary>
+            Culet Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.CPSMast">
+            <summary>
+            CPS Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.PlusMinusMast">
+            <summary>
+            Plus Minus Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.SideIncMast">
+            <summary>
+            Side Inclusion master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.CrownIncMast">
+            <summary>
+            Crowm Inclusion Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.BrokMastSrk">
+            <summary>
+            Broker Master Srk
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.BrokMast">
+            <summary>
+            Broker Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.TermMast">
+            <summary>
+            Term Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.SaleTypeMast">
+            <summary>
+            Sale Type Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.DeptMast">
+            <summary>
+            Deptartment Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.TrnYear">
+            <summary>
+            Trasactionn Year
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.BusinessTypeMast">
+            <summary>
+            Business Type Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.PartyStatusMast">
+            <summary>
+            Party Status Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.CountryMast">
+            <summary>
+            Country Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.PartyGroupMast">
+            <summary>
+            Party Group Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.EventMast">
+            <summary>
+            Event Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.SignMast">
+            <summary>
+            Deptartment Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.BankMast">
+            <summary>
+            Bank Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.ContinentMast">
+            <summary>
+            Countinent Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.CertificateMast">
+            <summary>
+            Certificate Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.CategoryMast">
+            <summary>
+            Category Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.UserMast">
+            <summary>
+            User Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.IdexSizeMast">
+            <summary>
+            Idex Size Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.ProcessMast">
+            <summary>
+            Broker Master Srk
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.BuyerCabinMast">
+            <summary>
+            Buyer Cabin Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.CompanyMast">
+            <summary>
+            Company Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.ExhibitionMast">
+            <summary>
+            Exhibiiton Master
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.EventComboFill">
+            <summary>
+            Event Combo Fill
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.ClientFill">
+            <summary>
+            Client Detail Combo Fill
+            </summary>
+        </member>
+        <member name="P:BusLib.GlbMaster.BOGlbMast.CertMast">
+            <summary>
+            Certificate Master
+            </summary>
+        </member>
+        <member name="T:BusLib.MyAccount.ClientInfo">
+            <summary>
+            My Account Information
+            </summary>
+        </member>
+        <member name="M:BusLib.MyAccount.ClientInfo.SetParameter(System.Data.SqlClient.SqlDataReader)">
+            <summary>
+            Set Parameter For Client Information
+            </summary>
+            <param name="SqlReader">SqlDataReader For Set Client Information Parameter</param>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.UserID">
+            <summary>
+            Register User Id
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.UserName">
+            <summary>
+            Register User Name
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.UserDisplayName">
+            <summary>
+            User Display Name
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.UserCategory">
+            <summary>
+            User Category
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.SinMixDept">
+            <summary>
+            Single Mix Deparment (0 = Single, 1 = Mix)
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.DepartmentCode">
+            <summary>
+            Department Code
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.ProcessCode">
+            <summary>
+            Process Code
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.ProcessName">
+            <summary>
+            Process Name
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.DepartmentName">
+            <summary>
+            Department Name
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.PrimaryEmailID">
+            <summary>
+            Registered Primary Email-Id
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.SecondEmailID">
+            <summary>
+            Registered Secondary Email Id
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.UserCommissionPer">
+            <summary>
+            User Additional Percentage (%)
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.PR_Code">
+            <summary>
+            Person Code
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.ISSalePerActive">
+            <summary>
+            Sales Persion Active Or Not
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.ISDiscussAllowed">
+            <summary>
+            User Discuss Allowed Or Not
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.ISUserVerified">
+            <summary>
+            User Verified Or Not
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.UserLoginCount">
+            <summary>
+            User Total Exe Login Count
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.UserLoginLimit">
+            <summary>
+            User Exe Login Limit
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.IPAddress">
+            <summary>
+            Computer IP Address
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.ComputerName">
+            <summary>
+            Computer Name
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.ComputerID">
+            <summary>
+            Register Computer Id
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.RFIDADDRESS">
+            <summary>
+            RFID Address
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.MyFullName">
+            <summary>
+            My Full Name
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.MyEmailId">
+            <summary>
+            My Email Id
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.MyRemindInterval">
+            <summary>
+            My Reminder Interval
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.MyImage">
+            <summary>
+            My Small Image
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.MyApplicationPath">
+            <summary>
+            My Application File Save Path
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.ServerDate">
+            <summary>
+            Server Current Date
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.IsCrmLoginAllowed">
+            <summary>
+            Is CRM Login Allowed Or Not
+            </summary>
+        </member>
+        <member name="P:BusLib.MyAccount.ClientInfo.UserStatus">
+            <summary>
+            User Status Or MyMantra
+            </summary>
+        </member>
+        <member name="T:BusLib.MyAccount.MyAccount">
+            <summary>
+            My Account Details
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.BOOnlineInVisibleStone">
+            <summary>
+            Online Invisible Stone
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Analysis.BorderLine.BOBorderLineView.CheckFinalLocalSaleDataComplete(System.Int32,System.String,System.Int32,System.String,System.Int32)">
+            <summary>
+            Check Final Local Sale Complete
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Analysis.BorderLine.BOBorderLineView.SaveJanToLocalSaleDelete(System.String,System.Int32)">
+            <summary>
+            Jangad To Local Sale Delete Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Analysis.BOTranPrcPen.CheckViewReqStone(System.String)">
+            <summary>
+            Check Stone List Before View Request
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.DAYP.BODAYPEmailMast">
+            <summary>
+            Dayp (Diamond At Your Price) Emailer Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.DAYP.BODAYPEntry">
+            <summary>
+            Dayp (Diamond At Your Price) New Stone Entry
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Analysis.DAYP.BODAYPEntry.CheckStoneID(System.String)">
+            <summary>
+            Check Stone List Before Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Analysis.DAYP.BODAYPEntry.CheckFinalUpdate(System.String)">
+            <summary>
+            Check Stone List Before Final Update
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Analysis.DAYP.BODAYPEntry.CheckRemainSel(System.String)">
+            <summary>
+            Check Stone List Selection
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.DAYP.BODAYPFinal">
+            <summary>
+            Dayp (Diamond At Your Price) Final Entry
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Analysis.DAYP.BODAYPFinalUpload.FindRate(System.Double,System.Double,System.Double)">
+            <summary>
+            Check Stone Rate Before Save
+            </summary>        
+        </member>
+        <member name="M:BusLib.Solitaire.Analysis.DAYP.BODAYPFinalUpload.FindPer(System.Double,System.Double,System.Double)">
+            <summary>
+            Check Stone PPer Before Save
+            </summary>        
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.DAYP.BODAYPFurtherFinal">
+            <summary>
+            Dayp (Diamond At Your Price) Final Entry
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Analysis.DAYP.BODAYPFurtherFinal.CheckMakeJangad(System.String)">
+            <summary>
+            Check Stone List Before Make Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Analysis.DAYP.BODaypPartyView.CheckMakeJangad">
+            <summary>
+            Check Stone List Before Make Jangad
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.IncMast.BOPRBrnIncMast">
+            <summary>
+            Para Brown Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.IncMast.BOPRTypeIncMast">
+            <summary>
+            Para Type Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.LotValuation.BOLotValuationDateDet">
+            <summary>
+            Lot Valuation Date Wise Details
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.LotValuation.BOLotValuationSizeDet">
+            <summary>
+            Lot Valuation Size Wise Details
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.LotValuation.BOLotValuationSizeShapeDet">
+            <summary>
+            Lot Valuaton Size And Shape Wise Details
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.OrderView.BOMissOrderDetailView">
+            <summary>
+            Miss Order Detail View
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.BORapDeptSelMast">
+            <summary>
+            Rapaport Department Selection
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.BORapReject">
+            <summary>
+            Rapaport Rejection
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.BOStockView">
+            <summary>
+            Stock View
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.CopyPaste.BORapNetCopy">
+            <summary>
+            Rap Net Copy Paste
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.IncMast.BOPRBIncMast">
+            <summary>
+            Para 
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.IncMast.BOPREFacMast">
+            <summary>
+            Para Extra Facet Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.IncMast.BOPRGrnIncMast">
+            <summary>
+            Para Granning Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.IncMast.BOPRHAMast">
+            <summary>
+            Para Heart And Arrow Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.IncMast.BOPRLustMast">
+            <summary>
+            Para Luster Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.IncMast.BOPRNatIncMast">
+            <summary>
+            Para Natural Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.IncMast.BOPROIncMast">
+            <summary>
+            Para Open Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.IncMast.BOPROWIncMast">
+            <summary>
+            Para Open Window Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.IncMast.BOPRSIncMast">
+            <summary>
+            Para Red Stpo Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.IncMast.BOPRSpIncMast">
+            <summary>
+            Para Side Pavilion Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.BOParaMast">
+            <summary>
+            Parameter Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.ParaMast.BOPRCAngleMast">
+            <summary>
+            Para Crown Angle Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.ParaMast.BOPRDMeterMast">
+            <summary>
+            Para Diameter Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.ParaMast.BOPRGirdleMast">
+            <summary>
+            Para Girdle Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.ParaMast.BOPRLenthMast">
+            <summary>
+            Para Lenth Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.ParaMast.BOPRPAngleMast">
+            <summary>
+            Para Angle Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.ParaMast.BOPRRatioMast">
+            <summary>
+            Para Ratio Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.ParaMast.BOPRTableMast">
+            <summary>
+            Para Table Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.ParaMast.BOPRTDepthMast">
+            <summary>
+            Para Total Depth Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.ParaMast.BOPRWidthMast">
+            <summary>
+            Para Width Master
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Analysis.PriceUpdate.BOFindPrice.AddDataRow(System.String,System.Double,System.Double,System.String,System.Int32,System.Double,System.Double)">
+            <summary>
+            Adding DaraRow To Display Dataset
+            </summary>
+            <param name="pDescription">Discount Description</param>
+            <param name="pDiscount">Percentage</param>
+            <param name="pRate">Rate</param>
+        </member>
+        <member name="M:BusLib.Solitaire.Analysis.PriceUpdate.BOFindPrice.AddMixRow(System.String,System.Double,System.Double,System.Int32)">
+            <summary>
+            Adding DaraRow To Display Dataset
+            </summary>
+            <param name="pDescription">Discount Description</param>
+            <param name="pDiscount">Percentage</param>
+            <param name="pRate">Rate</param>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.PriceUpdate.BORapaportView">
+            <summary>
+            Rapaport View
+            </summary>
+        </member>
+        <member name="F:BusLib.Solitaire.Analysis.PriceUpdate.BORapUpdate.mStoneDetView">
+            <summary>
+            Stone Details
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.PriceUpdate.BORNDiscUpdate">
+            <summary>
+            RN Discount Update
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.RFS.BORFSFinal">
+            <summary>
+            Ready For Sale Final
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.RFS.BORFSProcMemoView">
+            <summary>
+            RFS Process Memo View
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.StockView.BOMainMatJanHistView">
+            <summary>
+            Main Stock Jangad History View
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Analysis.StockView.BOMatStkInward.InwardFromLab">
+            <summary>
+            Inward From Lab
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Analysis.StockView.BOMatStkInward.InwardFromMAT">
+            <summary>
+            Inward From MAT
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Analysis.StockView.BOMatStkInward.InwardDetail">
+            <summary>
+            Inward Stone Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Analysis.StockView.BOMatStkInward.InwardErrorDetail">
+            <summary>
+            Inward Stone Validation Error Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Analysis.StockView.BOMatStkOutward.OutwardToStock">
+            <summary>
+            Outward From Stock
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Analysis.StockView.BOMatStkOutward.OutwardToLab">
+            <summary>
+            Outward From Lab
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Analysis.StockView.BOMatStkOutward.OutwardToMAT">
+            <summary>
+            Inward From MAT
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Analysis.StockView.BOMatStkOutward.OutwardDetail">
+            <summary>
+            Outward Stone Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Analysis.StockView.BOMatStkOutward.OutwardErrorDetail">
+            <summary>
+            Outward Stone Validation Error Details
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Analysis.StockView.BOMatStkTally">
+            <summary>
+            Mat Stock Tally
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.StockView.BOMatStockInHand">
+            <summary>
+            Mat Stock In Hand
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOMatStockInHand.StockInHandOrderPcs">
+            <summary>
+            Stock In Hand In Order Pcs
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOMatStockInHand.StockInHandMixPcs">
+            <summary>
+            Stock In Hand In Mix Pcs
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOMatStockInHand.StockInHandInStock">
+            <summary>
+            Stock In Hand In Stock Pcs
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Certificate.CertiDispatch.BODispatchRequest.ClearLocalGridData">
+            <summary>
+            Clear All Grid Data
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Certificate.CertiDispatch.BODispatchView.ClearGridData">
+            <summary>
+            Clear All Grid Data
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Certificate.CertiDispatch.BOGoldiPreplanning.ClearGridData">
+            <summary>
+            Clear All Grid Data
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Certificate.CertiDispatch.BOPreplanForDispatch.ClearGridData">
+            <summary>
+            Clear All Grid Data
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Certificate.CertiDispatch.BOReceiveOrMiss.ClearGridData">
+            <summary>
+            Clear All Grid Data
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.FillJangad(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Fill Jangad Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.FindPktDet(System.Int32,System.Int32)">
+            <summary>
+            Fill Stone Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.FindTotal(System.Int32,System.Int32)">
+            <summary>
+            Find Stone Packet Total
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.FindTotalAll(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Find All Jangad Total
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.FillListMulti(System.String)">
+            <summary>
+            Fill List Multi
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.FillList(System.Int32)">
+            <summary>
+            Fill List        
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.PrintInvMulti(System.String)">
+            <summary>
+            Fill Invoice Multi
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.PrintInv(System.Int32,System.String)">
+            <summary>
+            Fill Inv       
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.PrintSGoldiInvMultiRpt(System.String,System.String)">
+            <summary>
+            Fill SGoldi Inv Multi     
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.PrintSGoldiInvRpt(System.Int32,System.String)">
+            <summary>
+            Fill SGoldi Inv 
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.SaveSaleToJan(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Sale To Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.FillSysDiscForSale(System.String,System.Int32)">
+            <summary>
+            Fill SysDisc
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.CheckTransferToJan(System.Int32,System.Int32)">
+            <summary>
+            Check Before Jangad Delete
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.ClearGridData">
+            <summary>
+            Clear All Grid Data
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.JangadDetView">
+            <summary>
+            Jangad Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Goldi.BOGoldiSaleEntry.StoneDetView">
+            <summary>
+            Stone Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOManageInv.FillInvMulti">
+            <summary>
+            Fill Invoice Multi
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOManageInv.FillInv(System.String,System.Int32,System.String,System.Int32)">
+            <summary>
+            Fill Invoice         
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Goldi.BOManageInv.CheckInvoiceGenerated(System.String,System.Int32)">
+            <summary>
+            Fill Invoice         
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.BODiamondImage">
+            <summary>
+            Diamond Image
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Grading.BOLabExport.ClearGridData">
+            <summary>
+            Clear All Grid Data
+            </summary>
+        </member>
+        <member name="F:BusLib.Solitaire.Grading.BOPacketEntry._TABLETRNMASTLABELPRINT">
+            <summary>
+            Label Print
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.BOPacketEntry.TRNMAST">
+            <summary>
+            Packet Main Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.BOPacketEntry.TRNLABMAST">
+            <summary>
+            Packet Lab Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.BOPacketEntry.DISCUSS">
+            <summary>
+            Discuss Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.BOSolitaireMain.SetFormMenu">
+            <summary>
+            Sets Form Menu
+            </summary>
+            <param name="UserName">Pass UserName</param>
+            <returns>Returns DataTable Object</returns>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.BOGRDStockView">
+            <summary>
+            GRD Stock View
+            </summary>
+        </member>
+        <member name="T:BusLib.Validation.BOValidation">
+            <summary>
+            Class For PerForm Validation In Application
+            </summary>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.ValDate(System.Windows.Forms.TextBox)">
+            <summary>
+            Method For Validate Proper Date
+            </summary>
+            <param name="ptxtDate">Date TextBox Control</param>
+            <returns>True Or False</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.IsDate(System.String)">
+            <summary>
+            Method For Checking Valid Date
+            </summary>
+            <param name="anyString">Date String </param>
+            <returns>True Or False</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.ValTime(System.Windows.Forms.TextBox)">
+            <summary>
+            Method For Checking Valid Time
+            </summary>
+            <param name="ptxtTime">Time String</param>
+            <returns>True Or False</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.DispDate(System.String)">
+            <summary>
+            Method For Display Date In [DD/MM/YYYY] Format
+            </summary>
+            <param name="pStrDate">Date String</param>
+            <returns>True Or False</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.IsValidEmail(System.String)">
+            <summary>
+            Method For Validating Email Address
+            </summary>
+            <param name="EMailID">Email Address</param>
+            <returns>bool</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.DispTime(System.String)">
+            <summary>
+            Method For Display Date In [HH:MM AM/PM] Format
+            </summary>
+            <param name="pStrTime">Time String</param>
+            <returns>String</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.DispTime(System.Nullable{System.DateTime})">
+            <summary>
+            Display Time In (HH:MM AM/PM) format
+            </summary>
+            <param name="pDateTime"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.SqlDate(System.String)">
+            <summary>
+            Method For Display Date In Sql [MM/DD/YYYY] Format
+            </summary>
+            <param name="pStrDate">Date String</param>
+            <returns>String</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.SqlTime(System.String)">
+            <summary>
+            Method For Display Time In Sql [HH:MM AM/PM] Format
+            </summary>
+            <param name="pStrTime">Time String</param>
+            <returns>String</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.SqlShortDate(System.String)">
+            <summary>
+            Method For Display Date In Sql Short [MM/DD/YY] Format
+            </summary>
+            <param name="pStrDate">Date String</param>
+            <returns>String</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.SqlShortTime(System.String)">
+            <summary>
+            Method For Display Time In Sql Short [HH:MM AM/PM] Format
+            </summary>
+            <param name="pStrTime">Time String</param>
+            <returns>String</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.DispShortDate(System.String)">
+            <summary>
+            Method For Display Date In Short [DD/MM/YY] Format
+            </summary>
+            <param name="pStrDate">Date String</param>
+            <returns>String</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.DispShortTime(System.String)">
+            <summary>
+            Method For Display Time In Short [HH:MM AM/PM] Format
+            </summary>
+            <param name="pStrTime"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.FormKeyDownEvent(System.Object,System.Windows.Forms.KeyEventArgs)">
+            <summary>
+            Method For Setting Form Key Down Events
+            </summary>
+            <param name="sender">Sender</param>
+            <param name="e">Events E</param>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.SearchText(System.Data.DataTable,System.String)">
+            <summary>
+            Method for Searching DataRow From A Given Table
+            </summary>
+            <param name="pTab">DataTable </param>
+            <param name="pStrSearch">Search Field Value</param>
+            <returns>DataRow</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.SearchText(System.Data.DataTable,System.String,System.String)">
+            <summary>
+            Method for Searching DataRow From A Given Table
+            </summary>
+            <param name="pTab">DataTable </param>
+            <param name="pStrSearch">Search Field Name</param>
+            <param name="pStrFieldValue">Search Field Value</param>
+            <returns>DataRow</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.SearchText(System.Data.DataTable,System.String,System.String,System.String)">
+            <summary>
+            Method for Searching Column Value From A Given Table
+            </summary>
+            <param name="pTab">DataTable</param>
+            <param name="pStrSearch">Search Field Name</param>
+            <param name="pStrFieldValue">Search Fields Value</param>
+            <param name="pStrWhichFieldToReturn">Return Field NAme</param>
+            <returns>String</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.SearchText(System.Data.DataTable,System.String,System.String,System.Boolean)">
+            <summary>
+            Method for Searching Column And Return Bool Value From A Given Table
+            </summary>
+            <param name="pTab">DataTable</param>
+            <param name="pStrFieldName">Search Field Name</param>
+            <param name="pStrFieldValue">Search Fields Value</param>
+            <param name="pRetBoolean">Boolean Return</param>
+            <returns>Boolean</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.FindRow(System.Data.DataTable,System.String,System.String)">
+            <summary>
+            Find Return Value
+            </summary>
+            <param name="pDTab"></param>
+            <param name="pStrSearch"></param>
+            <param name="pStrFieldToRet"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.frmGenSet(System.Windows.Forms.Form)">
+            <summary>
+            Method For Setting Form Properties [Style,KeyPreview,StartUp Position]
+            </summary>
+            <param name="pFrm">Form Name For Setting ParaMeter </param>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.frmPopupSet(System.Windows.Forms.Form)">
+            <summary>
+            Method For Setting Form Properties [Style,KeyPreview,StartUp Position]
+            </summary>
+            <param name="pFrm">Form Name For Setting ParaMeter </param>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.Val(System.Object)">
+            <summary>
+            Method for Validating Object Value
+            </summary>
+            <param name="Str">Object Str</param>
+            <returns>Double </returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.Confirm">
+            <summary>
+            Method For Confirmation Warning
+            </summary>
+            <returns>DialogBox Results </returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.Confirm(System.String)">
+            <summary>
+            Method For Confirmation Warning
+            </summary>
+            <param name="pStrDispMsg">Message To Display</param>
+            <returns>DialogBox Results</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.Confirm(System.String,System.String)">
+            <summary>
+            Method For Confirmation Warning
+            </summary>
+            <param name="pStrDispMsg">Message To Display</param>
+            <param name="pStrDispValue">Display Value</param>
+            <returns>DialogBox Results</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.Message(System.String)">
+            <summary>
+            Method For Display Message 
+            </summary>
+            <param name="pStrMessage">Message To Display</param>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.Message(System.String,System.String)">
+            <summary>
+            Method For Display Message 
+            </summary>
+            <param name="pStrMessage">Message To Display</param>
+            <param name="pStrMessageCaption">Message Caption</param>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.Message(System.String,System.String,System.Windows.Forms.MessageBoxIcon)">
+            <summary>
+            Method For Display Message 
+            </summary>
+            <param name="pStrMessage">Message To Display</param>
+            <param name="pStrMessageCaption">Message Caption</param>
+            <param name="pMsgBoxIcon">Message Icon</param>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.Message(System.String,System.String,System.Windows.Forms.MessageBoxButtons,System.Windows.Forms.MessageBoxIcon)">
+            <summary>
+            Method For Display Message 
+            </summary>
+            <param name="pStrMessage">Message To Display</param>
+            <param name="pStrMessageCaption">Message Caption</param>
+            <param name="pMsgBoxButton">Message Button</param>
+            <param name="pMsgBoxIcon">Message Icon</param>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.Left(System.String,System.Int32)">
+            <summary>Method For Extracting Left Side Part Of String
+            Get Left Side String Of A Given Length
+            </summary>
+            <param name="pStr">Original String</param>
+            <param name="pLength">Number Of Characters To Extract</param>
+            <returns>String</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.Right(System.String,System.Int32)">
+            <summary>Method For Extracting Right Side Part Of String
+            Get Right Side String Of A Given Length
+            </summary>
+            <param name="pStr">Original String</param>
+            <param name="pLength">Number Of Characters To Extract</param>
+            <returns>String</returns>
+        </member>
+        <member name="M:BusLib.Validation.BOValidation.Format(System.Object,System.String)">
+            <summary>
+            To Format String With Object Expression
+            </summary>
+            <param name="Expression"></param>
+            <param name="Style"></param>
+            <returns></returns>
+        </member>
+        <member name="T:BusLib.Validation.BOValidation.EnumFont">
+            <summary>
+            Enum For Setting Font Name [0-Regular,1-Gujarati]
+            </summary>
+        </member>
+        <member name="F:BusLib.Validation.BOValidation.EnumFont.Regular">
+            <summary>
+            Enum Font Regular
+            </summary>
+        </member>
+        <member name="F:BusLib.Validation.BOValidation.EnumFont.Gujarati">
+            <summary>
+            Enum Font Gujarati
+            </summary>
+        </member>
+        <member name="T:BusLib.Validation.BOValidation.EnumExcelCellAlignment">
+            <summary>
+            Enum For Setting Excel Cell AlignMent [Left,Center,Right]
+            </summary>
+        </member>
+        <member name="F:BusLib.Validation.BOValidation.EnumExcelCellAlignment.Left">
+            <summary>
+            Enum Excel Cell Left AlignMent
+            </summary>
+        </member>
+        <member name="F:BusLib.Validation.BOValidation.EnumExcelCellAlignment.Center">
+            <summary>
+            Enum Excel Cell Center AlignMent
+            </summary>
+        </member>
+        <member name="F:BusLib.Validation.BOValidation.EnumExcelCellAlignment.Right">
+            <summary>
+            Enum Excel Cell Right AlignMent
+            </summary>
+        </member>
+        <member name="T:BusLib.Validation.BOValidation.EnumCellActivation">
+            <summary>
+            Enum For Setting Cell Activation State in UltraWinGrid
+            </summary>
+        </member>
+        <member name="F:BusLib.Validation.BOValidation.EnumCellActivation.ActiveOnly">
+            <summary>
+            Enum Active Only
+            </summary>
+        </member>
+        <member name="F:BusLib.Validation.BOValidation.EnumCellActivation.AllowEdit">
+            <summary>
+            Enum Allow Edit
+            </summary>
+        </member>
+        <member name="F:BusLib.Validation.BOValidation.EnumCellActivation.Disable">
+            <summary>
+            Enum Disable
+            </summary>
+        </member>
+        <member name="F:BusLib.Validation.BOValidation.EnumCellActivation.NoEdit">
+            <summary>
+            Enum NoEdit
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Grading.LabInward.BOLabStoneInward.ClearLocalGridData">
+            <summary>
+            Clear All Grid Data
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.LabInward.BOLabStoneInward.TableName">
+            <summary>Property TableName
+            Get Or Set Name Of Table For Fill
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.LabInward.BOLabStoneInward.DollarMast">
+            <summary>Property TableName
+            Get Or Set Name Of Table For Fill
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.LabInward.BOLabStoneInward.DataSet">
+            <summary>Property DataSet
+            Get Or Set DataSet For Filling Table Data
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.LabInward.BOLabStoneInward.OutwardErrorDetail">
+            <summary>
+            Outward Stone Validation Error Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.LabInward.BOLabStoneInward.OutwardDetail">
+            <summary>
+            Outward Stone Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Grading.LabInward.BOWebLabExport.DTDBTime(System.String)">
+            <summary>
+            Time Checking
+            </summary>
+            <param name="pStrDateTime"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BusLib.Solitaire.Grading.LabInward.BOWebLabExport.DTDBDate(System.Nullable{System.DateTime})">
+            <summary>
+            Date Checking
+            </summary>
+            <param name="pDateTime"></param>
+            <returns></returns>
+        </member>
+        <member name="M:BusLib.Solitaire.Grading.LabInward.BOWebLabExport.DTDBDate(System.Object)">
+            <summary>
+            Convert Date In (dd/MM/yyyy) format
+            </summary>
+            <param name="pObjDateTime"></param>
+            <returns></returns>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.LabInward.ClsLabResultInward">
+            <summary>
+            Lab Result Inaward Property Parameter Class
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.LabInward.ClsLabStoneInward">
+            <summary>
+            Lab Stone Inaward Property Parameter Class
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.LabInward.ClsTrnMast">
+            <summary>
+            Lab Inward TrnMast Property Parameter Class
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.PacketEntry.BOBasketView">
+            <summary>
+            Basket View
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.PacketEntry.BOCustomerDiscView">
+            <summary>
+            Customer Discount View
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.PacketEntry.BOGradingReport">
+            <summary>
+            Packet Grading Report
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.PacketEntry.BOHistory">
+            <summary>
+            Packet History 
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.PacketEntry.BOOfferView">
+            <summary>
+            Offer View
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.PacketEntry.BOReparing">
+            <summary>
+            Repaing Entry
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.PacketEntry.BOSkipDays">
+            <summary>
+            Skip Days
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.PacketEntry.BOSVSReport">
+            <summary>
+            SVS (Stock v/s Sale) Report
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOGrdStkInternal.GraderMast">
+            <summary>
+            Grader Master
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOGrdStkInternal.IssueErrorDetail">
+            <summary>
+            Issue Stone Error Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOGrdStkInward.InwardFromLab">
+            <summary>
+            Inward From Lab
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOGrdStkInward.InwardFromMAT">
+            <summary>
+            Inward From MAT
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOGrdStkInward.InwardDetail">
+            <summary>
+            Inward Stone Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOGrdStkInward.InwardErrorDetail">
+            <summary>
+            Inward Stone Validation Error Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Grading.StockView.BOGrdStkOutward.FillInv(System.String,System.Int32)">
+            <summary>
+            Fill Invoice         
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Grading.StockView.BOGrdStkOutward.CheckInvoiceGenerated(System.String,System.Int32)">
+            <summary>
+            Fill Invoice         
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOGrdStkOutward.OutwardToStock">
+            <summary>
+            Outward From Stock
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOGrdStkOutward.OutwardToLab">
+            <summary>
+            Outward From Lab
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOGrdStkOutward.OutwardToMAT">
+            <summary>
+            Inward From MAT
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOGrdStkOutward.OutwardDetail">
+            <summary>
+            Outward Stone Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOGrdStkOutward.OutwardErrorDetail">
+            <summary>
+            Outward Stone Validation Error Details
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.StockView.BOGrdStkTally">
+            <summary>
+            Grading Stock Tally
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.StockView.BOGrdStockInHand">
+            <summary>
+            Grading Stock In Hand
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOGrdStockInHand.StockInHandOrderPcs">
+            <summary>
+            Stock In Hand In Order Pcs
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOGrdStockInHand.StockInHandMixPcs">
+            <summary>
+            Stock In Hand In Mix Pcs
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Grading.StockView.BOGrdStockInHand.StockInHandInStock">
+            <summary>
+            Stock In Hand In Stock Pcs
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.ClientMaster.BOBrokerMast.Fill(System.String)">
+            <summary>
+            Fill Broker
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.ClientMaster.BOBrokerMast.SaveBroker(System.Data.DataRow,System.Int32)">
+            <summary>
+            Save Broker
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.ClientMaster.BOBrokerMast.DeleteBroker(System.String)">
+            <summary>
+            Delete Broker
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.ClientMaster.BOBrokerMast.CheckExistsParty(System.String,System.String)">
+            <summary>
+            Check Exists Party
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.ClientMaster.BOPartyList">
+            <summary>
+            Party List Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.CRM.BOExhibMast">
+            <summary>
+            Exhibition Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.CRM.BOTargetMast">
+            <summary>
+            Target Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOGirdleOpenIncMast">
+            <summary>
+            Girdle Open Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOLabGirdleMast">
+            <summary>
+            Lab Girdle Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOTypeIncMast">
+            <summary>
+            Type Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.LabMast.BOCertMast">
+            <summary>
+            Certificate Master
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.LabMast.BOCertMast.Fill">
+            <summary>
+            Fill Certificate Master
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Master.LabMast.BOCertMast.TableName">
+            <summary>
+            Table Name
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Master1.BOColMast">
+            <summary>
+            Color Master
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.Master1.BOColMast.GetColName(System.Int32)">
+            <summary>
+            Get Color Name With Code
+            </summary>
+            <param name="IntColCode">Color Code</param>
+            <returns>Color Name</returns>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Master1.BOCutMast">
+            <summary>
+            Cut Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.LabMast.BOFancyColMast">
+            <summary>
+            Fancy Color Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.LabMast.BOFancyMast">
+            <summary>
+            Fancy Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Master1.BOFloMast">
+            <summary>
+            Florosion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.LabMast.BOIdexSizeMast">
+            <summary>
+            Idex Size Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Master1.BOLotMast">
+            <summary>
+            Lot Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Master1.BOPolishMast">
+            <summary>
+            Polish Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Master1.BOQuaMast">
+            <summary>
+            Quality Master
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.Master1.BOQuaMast.GetQuaName(System.Int32)">
+            <summary>
+            Get Color Name With Code
+            </summary>
+            <param name="IntColCode">Color Code</param>
+            <returns>Color Name</returns>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.Master1.BOShpMast.GetFieldValue(System.String,System.String)">
+            <summary>Method For Getting Color Name
+            
+            </summary>
+            <param name="StrColCode"></param>
+            <param name="StrFieldsToReturn"></param>
+            <returns></returns>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Master1.BOSizeMast">
+            <summary>
+            Size Master 
+            1. Original Size, 2. Inclusioin Size, 3. Srk Size
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Master1.BOSymMast">
+            <summary>
+            Symmentry Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOBrnIncMast">
+            <summary>
+            Brown Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOBankMast">
+            <summary>
+            Bank Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOBrokMast">
+            <summary>
+            Broker Master
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.Others.BOBrokMast.GetBrokerName(System.String)">
+            <summary>
+            Get Broker Name With Code
+            </summary>
+            <param name="BrokerCode">Broker Code</param>
+            <returns>Broker Name</returns>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOBrokMastSrk">
+            <summary>
+            Srk Broker Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOBusinessTypeMast">
+            <summary>
+            Business Type Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOBuyerCabinMast">
+            <summary>
+            Buyer Cabin Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOBuyerMast">
+            <summary>
+            Buyer Master
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.Others.BOBuyerMast.GetBuyerName(System.String)">
+            <summary>
+            Get Buyer Name With Code
+            </summary>
+            <param name="BuyerCode">Buyer Code</param>
+            <returns>Buyer Name</returns>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOCarriageMast">
+            <summary>
+            Carriage Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOCategoryMast">
+            <summary>
+            Category Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOCertificateMast">
+            <summary>
+            Certificate Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOCommentMast">
+            <summary>
+            Comment Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.BOCommMast">
+            <summary>
+            Comment Master
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.BOCommMast.Update">
+             <summary>Method For Update Data
+            
+             </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.BOCommMast.Delete">
+             <summary>Method For Delete Data
+            
+             </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOCompanyMast">
+            <summary>
+            Company Master
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.Others.BOConfigMast.FillConfigKey(System.String)">
+            <summary>
+            Method for Fill By Config Key
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOContinentMast">
+            <summary>
+            Continent Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOCountryMast">
+            <summary>
+            Country Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BODeptMast">
+            <summary>
+            Department Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOEventMast">
+            <summary>
+            Event Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOGirdleMast">
+            <summary>
+            Girdle Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOPartyGrpMast">
+            <summary>
+            Party Group Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOPartyStatusMast">
+            <summary>
+            Party Status Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOReviseDaysMast">
+            <summary>
+            Revise Days Master
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.Others.BOSalesPointGraphMast.FillConfigKey(System.String)">
+            <summary>
+            Method for Fill By Config Key
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOSignMast">
+            <summary>
+            Sign Master like (+, ++, -, --)
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOSRKDeptMast">
+            <summary>
+            Srk Department Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOTrnYear">
+            <summary>
+            Year Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOWhatsNewMast">
+            <summary>
+            Whats New Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOCPSMast">
+            <summary>
+            CPS Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOCrownAngleMast">
+            <summary>
+            Crown Angle Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOCrownIncMast">
+            <summary>
+            Crown Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOCuletMast">
+            <summary>
+            Culet Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BODiameterMast">
+            <summary>
+            Diameter Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BODollarMast">
+            <summary>
+            Dollar Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOGirdleParaMast">
+            <summary>
+            Girdle Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOGradeMast">
+            <summary>
+            Grade Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOGrnIncMast">
+            <summary>
+            Granning Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOGuideLineMast">
+            <summary>
+            Guideline Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOHAMast">
+            <summary>
+            Heart And Arrow Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOKeySymbolMast">
+            <summary>
+            Key Symbol Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOLengthMast">
+            <summary>
+            Length Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOLocationMast">
+            <summary>
+            Location Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOLusterMast">
+            <summary>
+            Luster Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BONatIncMast">
+            <summary>
+            Natural Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOOpnWIncMast">
+            <summary>
+            Open Window Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOPartyMast">
+            <summary>
+            Party Master
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.Others.BOPartyMast.GetPartyName(System.String)">
+            <summary>
+            Get Party Name With Code
+            </summary>
+            <param name="PartyCode">Party Code</param>
+            <returns>Party Name</returns>
+        </member>
+        <member name="P:BusLib.Solitaire.Master.Others.BOPartyMast.CrmPartyMast">
+            <summary>
+            Crm Party Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOPavalionAngleMast">
+            <summary>
+            Pavilion Angle Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOPavilionIncMast">
+            <summary>
+            Pavilion Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOPlusMinMast">
+            <summary>
+            Plus Minus Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BORatioMast">
+            <summary>
+            Ratio Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BORoughMast">
+            <summary>
+            Rough Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOSaleTypeMast">
+            <summary>
+            Sale Type Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOSideIncMast">
+            <summary>
+            Side Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOPersonMast">
+            <summary>
+            Person Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOTableIncMast">
+            <summary>
+            Table Inclusion Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOTableMast">
+            <summary>
+            Table Mater
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOTermMast">
+            <summary>
+            Term Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOTotDepthMast">
+            <summary>
+            Total Depth Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Master.Others.BOWidthMast">
+            <summary>
+            Width Master
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.ClientMaster.BOPartyMast.SaveParty(System.Data.DataRow,System.Int32)">
+            <summary>
+            Save Party
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.ClientMaster.BOPartyMast.DeleteParty(System.String)">
+            <summary>
+            Delete Party
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.ClientMaster.BOPartyMast.DeleteBuyer(System.String)">
+            <summary>
+            Delete Buyer
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.ClientMaster.BOPartyMast.CheckBuyerExits(System.String,System.String)">
+            <summary>
+            Check Exists Buyer
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Master.ClientMaster.BOPartyMast.CheckExistsParty(System.String,System.String)">
+            <summary>
+            Check Exists Party
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Report.BOFillReport">
+            <summary>
+            Fill Report Procedure And Parameter
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Report.BOFillReport.Fill(System.Int32,System.String)">
+            <summary>
+            Fill Report List From Server
+            </summary>
+            <param name="pReportIdnNo">Unique Report Identity Number</param>
+            <param name="pSubRepCode">Sub Report Code (Optional)</param>
+        </member>
+        <member name="T:BusLib.Solitaire.Report.BOReportSizeSelect">
+            <summary>
+            Report Multipls Size Selection
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Report.Grading.BOGrdMastStoneDet">
+            <summary>
+            Report : Grading Master Stone Details
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Report.Grading.BOGrdMastStoneSum">
+            <summary>
+            Grading Reprot Master Stone Summary
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Report.StockWithSales.BODaypDetail">
+            <summary>
+            Report : Dayp Details
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Report.StockWithSales.BODaypPartyView">
+            <summary>
+            Report : Dayp Party View
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Report.StockWithSales.BOOldStockView">
+            <summary>
+            Report : Old Stock View
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Report.BORnSaleReport">
+            <summary>
+            Rn Sale Report
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Report.BORnStockReport">
+            <summary>
+            Rn Stock Report
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Report.Viewer.BOReport">
+            <summary>
+            Report View Object To Assign And Clear Crystal Parameter
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Report.Viewer.BOReportTable">
+            <summary>
+            Global Report Table Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Report.Viewer.BOReportView">
+            <summary>
+            Report View
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Report.Viewer.BOSaveSearch">
+            <summary>
+            Save Search
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.Fill(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Fill Jangad Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.Fill(System.String,System.Int32)">
+            <summary>
+            Fill Stone Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.FindTotal(System.String,System.Int32)">
+            <summary>
+            Find Stone Packet Total
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.FindTotalAll(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Find All Jangad Total
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.FillJRateList(System.String,System.Int32)">
+            <summary>
+            Fill JRateList        
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.FillList(System.String,System.Int32)">
+            <summary>
+            Fill List        
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.FillJRateListMulti">
+            <summary>
+            Fill JRateList Multi
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.FillListMulti">
+            <summary>
+            Fill List  Multi      
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.SaveRecord(System.String,System.String,System.String,System.String,System.String,System.String,System.Double,System.Double,System.Double,System.Double,System.String,System.Int32,System.Int32@)">
+            <summary>
+            Save Data        
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.SaveClearJangad(System.String,System.Int32,System.Int32)">
+            <summary>
+            Clear Jangad Data
+            </summary>
+            <param name="pJanDate">Jangad Date</param>
+            <param name="pJanNo">Jangad Number</param>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.SaveReceiveJangad(System.String,System.Int32,System.Int32)">
+            <summary>
+            Receive Jangad Data
+            </summary>
+            <param name="pJanDate">Jangad Date</param>
+            <param name="pJanNo">Jangad Number</param>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.SaveDeleteJangad(System.String,System.Int32,System.Int32)">
+            <summary>
+            Delete Jangad Data
+            </summary>
+            <param name="pJanDate">Jangad Date</param>
+            <param name="pJanNo">Jangad Number</param>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.SaveModifyJangad(System.Data.DataRow,System.Int32)">
+            <summary>
+            Modify Jangad Data
+            </summary>        
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.SaveStoneSplitJangad(System.String,System.String,System.Int32,System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Split Jangad Save
+            </summary>        
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.SaveIsJanSel(System.String,System.String,System.Int32,System.Boolean,System.Int32)">
+            <summary>
+            Save Selected Jangad
+            </summary>        
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.SaveIsJanRec(System.String,System.String,System.Int32,System.Boolean,System.Int32)">
+            <summary>
+            Save Receive Selected Jangad
+            </summary>        
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.SaveMergeJangad(System.String,System.Int32,System.String,System.Int32,System.Int32)">
+            <summary>
+            Merge Jangad
+            </summary>        
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.SaveTransferToMain(System.String,System.String,System.Int32,System.String,System.String,System.String,System.String,System.Double,System.Double,System.Double,System.Double,System.String,System.String,System.Double,System.Int32)">
+            <summary>
+            Transfer To Main
+            </summary>        
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BODailyJan.ClearGridData">
+            <summary>
+            Clear Grid
+            </summary> 
+        </member>
+        <member name="P:BusLib.Solitaire.Sales.BODailyJan.JangadDetView">
+            <summary>
+            Jangad Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Sales.BODailyJan.StoneDetView">
+            <summary>
+            Stone Details
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Sales.BOJangadHistory">
+            <summary>
+            Jangad History
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Sales.BOJanRec">
+            <summary>
+            Jangad Receive
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOMyDelayConfirm">
+            <summary>
+            My Delay Confirm
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.FillJangad(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            Fill Jangad Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.FindPktDet(System.Int32,System.Int32)">
+            <summary>
+            Fill Stone Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.FindTotal(System.Int32,System.Int32)">
+            <summary>
+            Find Stone Packet Total
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.FindTotalAll(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Find All Jangad Total
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.FillJRateList(System.Int32)">
+            <summary>
+            Fill JRateList        
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.FillList(System.Int32)">
+            <summary>
+            Fill List        
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.FillJRateListMulti(System.String)">
+            <summary>
+            Fill JRateList Multi
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.FillListMulti(System.String)">
+            <summary>
+            Fill List  Multi      
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.PrintInvMulti(System.String)">
+            <summary>
+            Fill Invoice Multi
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.PrintInv(System.Int32,System.String)">
+            <summary>
+            Fill Inv       
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.PrintSGoldiInvMultiRpt(System.String,System.String)">
+            <summary>
+            Fill SGoldi Inv Multi     
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.PrintSGoldiInvRpt(System.Int32,System.String)">
+            <summary>
+            Fill SGoldi Inv 
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.SaveSaleToJan(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Sale To Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.FillSysDiscForSale(System.String,System.Int32,System.Int32)">
+            <summary>
+            Fill SysDisc
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.FillExcelMulti">
+            <summary>
+            Fill Excel Multi
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.CheckTransferToJan(System.Int32,System.Int32)">
+            <summary>
+            Check Before Jangad Delete
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.ClearGridData">
+            <summary>
+            Clear All Grid Data
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.CheckBeforeModify(System.Int32,System.Int32)">
+            <summary>
+            Check Before Modify
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOSaleEntry.CheckBeforeJanModifyAccTerms(System.Int32,System.String)">
+            <summary>
+            Check Terms with Account
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Sales.BOSaleEntry.JangadDetView">
+            <summary>
+            Jangad Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Sales.BOSaleEntry.StoneDetView">
+            <summary>
+            Stone Details
+            </summary>
+        </member>
+        <member name="F:BusLib.Solitaire.Sales.BOMainJan.mJangadDetView">
+            <summary>
+            Jangad Details
+            </summary>
+        </member>
+        <member name="F:BusLib.Solitaire.Sales.BOMainJan.mStoneDetView">
+            <summary>
+            Stone Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.FillJangad(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Fill Jangad Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.FindPktDet(System.String,System.Int32)">
+            <summary>
+            Fill Stone Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.FindTotal(System.String,System.Int32)">
+            <summary>
+            Find Stone Packet Total
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.FindTotalAll(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Boolean,System.Boolean,System.Boolean,System.String)">
+            <summary>
+            Find All Jangad Total
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.FillInvMulti">
+            <summary>
+            Fill Invoice Multi
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.FillInv(System.String,System.Int32)">
+            <summary>
+            Fill Invoice         
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckInvoiceGenerated(System.String,System.Int32)">
+            <summary>
+            Fill Invoice         
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.FillExcelMulti">
+            <summary>
+            Fill Excel Multi
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.FillJRateList(System.String,System.Int32)">
+            <summary>
+            Fill JRateList        
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.FillList(System.String,System.Int32)">
+            <summary>
+            Fill List        
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.FillJRateListMulti">
+            <summary>
+            Fill JRateList Multi
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.FillListMulti">
+            <summary>
+            Fill List  Multi      
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.PrintPerInvMultiRpt">
+            <summary>
+            Fill Per Inv Multi
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.PrintPerInvRpt(System.String,System.Int32)">
+            <summary>
+            Fill Per Inv 
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.PrintSGoldiInvMultiRpt">
+            <summary>
+            Fill SGoldi Inv Multi
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:BusLib.Solitaire.Sales.BOMainJan.PrintSGoldiInvRpt(System.String,System.Int32)" -->
+        <!-- Badly formed XML comment ignored for member "M:BusLib.Solitaire.Sales.BOMainJan.PrintTJCInvRpt(System.String,System.Int32)" -->
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.PrintInvMultiRpt">
+            <summary>
+            Fill InvCSV Multi
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:BusLib.Solitaire.Sales.BOMainJan.PrintInvRpt(System.String,System.Int32)" -->
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.SaveRecord(System.String,System.String,System.String,System.String,System.String,System.String,System.Double,System.Double,System.Double,System.Double,System.Double,System.Int32,System.Int32@)">
+            <summary>
+            Save Jangad Stone
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.ClearJangadSave(System.String,System.Int32,System.Int32)">
+            <summary>
+            Clear Jangad Data
+            </summary>
+            <param name="pJanDate">Jangad Date</param>
+            <param name="pJanNo">Jangad Number</param>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.ReceiveJangadSave(System.String,System.Int32,System.Int32)">
+            <summary>
+            Receive Jangad Data
+            </summary>
+            <param name="pJanDate">Jangad Date</param>
+            <param name="pJanNo">Jangad Number</param>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.DeleteJangadSave(System.String,System.Int32,System.Int32)">
+            <summary>
+            Delete Jangad Data
+            </summary>
+            <param name="pJanDate">Jangad Date</param>
+            <param name="pJanNo">Jangad Number</param>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.ModifyJangadSave(System.Data.DataRow,System.Int32,System.Boolean,System.Double,System.Double,System.Double,System.Double)">
+            <summary>
+            Modify Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.SaveStoneSplitJangad(System.String,System.String,System.Int32,System.String,System.String,System.Int32)">
+            <summary>
+            Split Stone Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.SaveLockJangad(System.String,System.Int32,System.String,System.Double,System.Int32,System.Int32)">
+            <summary>
+            Lock Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CalcSysDisc(System.String,System.Int32,System.String,System.Boolean)">
+            <summary>
+            Calculate System Discount Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.SaveUnLockJangad(System.String,System.Int32,System.String,System.String,System.Double,System.Int32,System.Int32)">
+            <summary>
+            UnLock Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.SaveLockDiscJangad(System.String,System.Int32,System.Int32)">
+            <summary>
+            Lock Discount Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.SaveLockParModifyJan(System.String,System.Int32,System.String,System.Int32)">
+            <summary>
+            Lock Party Modify Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.JanToDailyTransfer(System.String,System.Int32,System.Int32,System.String,System.String,System.Int32)">
+            <summary>
+            Jangad Transfer To Daily
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.SaveJanToSale(System.Int32,System.String,System.Int32,System.String,System.Int32)">
+            <summary>
+            Jangad To Sale
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.SaveJanToSaleDelete(System.String,System.Int32)">
+            <summary>
+            Jangad To Sale Delete Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckFinalSaleDataComplete(System.Int32,System.String,System.Int32,System.String,System.Int32)">
+            <summary>
+            Check Final Sale Complete
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.SaveMergeJangad(System.String,System.String,System.Int32)">
+            <summary>
+            Merge Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.SaveIsJanSel(System.String,System.String,System.Int32,System.Boolean,System.Int32)">
+            <summary>
+            Selected Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.SaveIsJanRec(System.String,System.String,System.Int32,System.Boolean,System.Int32)">
+            <summary>
+            Receive Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.SaveUnlockInvoice(System.String,System.Int32,System.String,System.String,System.Int32)">
+            <summary>
+            Unlock Invoice Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.FillSysDisc(System.String,System.Int32,System.String,System.Int32,System.Int32)">
+            <summary>
+            Fill System Discount
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.FillSysDiscUnlock(System.String,System.Int32,System.String,System.Int32,System.Int32)">
+            <summary>
+            Fill System Discount Unlock
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.SaveClearBlind(System.String,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Double,System.Int32,System.Int32)">
+            <summary>
+            Clear Blind Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.SaveDeliveredJangad(System.String,System.Int32,System.Int32)">
+            <summary>
+            Delivered Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.GivenDiscFind(System.String,System.Int32,System.String,System.Int32,System.Int32)">
+            <summary>
+            Find Given Sys Discount
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.GivenDiscSave(System.String,System.Int32,System.String,System.Int32,System.Int32)">
+            <summary>
+            Find Given Sys Discount
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.GivenDiscFindWithUnlockJangad(System.String,System.Int32,System.String,System.Int32,System.Int32)">
+            <summary>
+            Find Given Sys Discount For Unlock Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckMakeJangad(System.String)">
+            <summary>
+            Check Stone List Before Make Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckRfidJangad(System.String)">
+            <summary>
+            Check Stone List Before Make Rfid Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckStoneSplitJangad(System.String,System.String,System.Int32)">
+            <summary>
+            Check Stone List Before Split Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckBeforeModLockParty(System.String,System.Int32)">
+            <summary>
+            Check Before Modify Party Of Lock Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckBeforeJanReceive(System.String,System.Int32)">
+            <summary>
+            Check Before Jangad Receive
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckBeforeJanDelete(System.String,System.Int32)">
+            <summary>
+            Check Before Jangad Delete
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckBeforePriceUpdate(System.String,System.Int32)">
+            <summary>
+            Check Before Price Update
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckSysDisc(System.String,System.Int32)">
+            <summary>
+            Check Before System Discount
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckFinalCal(System.String,System.Int32)">
+            <summary>
+            Check Before Final Calculation
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckFinalExport(System.String,System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Check Before Jangad Export
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckJanModify(System.String,System.Int32,System.Boolean)">
+            <summary>
+            Check Before Jangad Modify
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckJanLock(System.String,System.Int32)">
+            <summary>
+            Check Before Jangad Lock
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckJanUnLock(System.String,System.Int32)">
+            <summary>
+            Check Before Jangad Unlock
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckJanLocked(System.String,System.Int32)">
+            <summary>
+            Check Jangad Locked
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckJanUnlockInvoice(System.String,System.Int32)">
+            <summary>
+            Check Before Unlock Invoice
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckJanSysDisc(System.String,System.Int32)">
+            <summary>
+            Check Before System Discount Calculate
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckDirectTransferToSale(System.String,System.Int32)">
+            <summary>
+            Check Before Transfer To Sale Direct Export
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckTransferToSale(System.String,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            Check Before Transfer To Sale
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckDeliveredJangad(System.String,System.Int32)">
+            <summary>
+            Check Before Delivered Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.ClearGridData">
+            <summary>
+            Clear All Grid Data
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckBeforeJanModifyAccTerms(System.Int32,System.String)">
+            <summary>
+            Check Terms with Account
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.SaveTrfToBLSManual(System.String,System.Boolean,System.Int32)">
+            <summary>
+            Trf to BLS manual Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckGoldiJangad(System.String,System.Int32,System.String,System.String)">
+            <summary>
+            Check Before Jangad To Goldi
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckGoldiAccJangad(System.String,System.Int32,System.String,System.String)">
+            <summary>
+            Check Acc Active Before Jangad To Goldi
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOMainJan.CheckGoldiMultiJangad(System.String,System.Int32)">
+            <summary>
+            Check Before Multi Jangad To Goldi
+            </summary>
+        </member>
+        <member name="F:BusLib.Solitaire.Sales.BOProcMemo.mLabelPrint">
+            <summary>
+            Label Print
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.FillJangad(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Fill Jangad Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.FindPktDet(System.String,System.Int32,System.String)">
+            <summary>
+            Fill Stone Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.FindTotal(System.String,System.Int32)">
+            <summary>
+            Find Stone Packet Total
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.FindTotalAll(System.Int32,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Find All Jangad Total
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.FillInvMulti">
+            <summary>
+            Fill Invoice Multi
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.FillInv(System.String,System.Int32,System.Int32)">
+            <summary>
+            Fill Invoice         
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.SaveRecord(System.String,System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Save Jangad Stone
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.ClearJangadSave(System.String,System.Int32,System.Int32)">
+            <summary>
+            Clear Jangad Data
+            </summary>
+            <param name="pJanDate">Jangad Date</param>
+            <param name="pJanNo">Jangad Number</param>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.ReceiveJangadSave(System.String,System.Int32,System.String,System.Int32)">
+            <summary>
+            Receive Jangad Data
+            </summary>
+            <param name="pJanDate">Jangad Date</param>
+            <param name="pJanNo">Jangad Number</param>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.DeleteJangadSave(System.String,System.Int32,System.Int32)">
+            <summary>
+            Delete Jangad Data
+            </summary>
+            <param name="pJanDate">Jangad Date</param>
+            <param name="pJanNo">Jangad Number</param>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.ModifyJangadSave(System.String,System.Int32,System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Modify Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.SaveLockJangad(System.String,System.Int32)">
+            <summary>
+            Lock Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.SaveStoneSplitJangad(System.String,System.String,System.Int32,System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Split Stone Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.JanToDailyTransfer(System.String,System.Int32,System.Int32,System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Jangad Transfer To Daily
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.SaveMktDate(System.String,System.Int32,System.String,System.Int32)">
+            <summary>
+            Market Date Modify
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.SaveMergeJangad(System.String,System.String,System.Int32)">
+            <summary>
+            Merge Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.SaveIsJanSel(System.String,System.String,System.Int32,System.Boolean,System.Int32)">
+            <summary>
+            Selected Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.SaveIsJanRec(System.String,System.String,System.Int32,System.Boolean,System.Int32)">
+            <summary>
+            Receive Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.PrintBarCode(System.String)">
+            <summary>
+            Barcode Print
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.SaveJanToSale(System.Int32,System.String,System.Int32,System.String,System.Int32)">
+            <summary>
+            Jangad To Sale
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.SaveJanToExportSale(System.Int32,System.String,System.Int32,System.String,System.Int32)">
+            <summary>
+            Jangad To Sale
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.SaveJanToLocalSaleDelete(System.String,System.Int32)">
+            <summary>
+            Jangad To Local Sale Delete Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.SaveJanToExportSaleDelete(System.String,System.Int32)">
+            <summary>
+            Jangad To Export Sale Delete Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.CheckFinalLocalSaleDataComplete(System.Int32,System.String,System.Int32,System.String,System.Int32)">
+            <summary>
+            Check Final Local Sale Complete
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.CheckFinalExportSaleDataComplete(System.Int32,System.String,System.Int32,System.String,System.Int32)">
+            <summary>
+            Check Final Export Sale Complete
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.CheckMakeJangad(System.String)">
+            <summary>
+            Check Stone List Before Make Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.CheckRfidJangad(System.String)">
+            <summary>
+            Check Stone List Before Make Rfid Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.CheckStoneSplitJangad(System.String,System.String,System.Int32)">
+            <summary>
+            Check Stone List Before Split Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.CheckJanLock(System.String)">
+            <summary>
+            Check Before Jangad Lock
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.CheckBeforeJanReceive(System.String,System.Int32)">
+            <summary>
+            Check Before Jangad Receive
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.CheckBeforeJanDelete(System.String,System.Int32)">
+            <summary>
+            Check Before Jangad Delete
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.CheckValidJangad(System.String,System.Int32)">
+            <summary>
+            Check Before Jangad Delete
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.CheckRemainSel(System.String,System.String,System.Int32)">
+            <summary>
+            Check RFID Remian List Selection
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.CheckTransferToSale(System.String,System.Int32,System.String,System.String,System.String)">
+            <summary>
+            Check Before Transfer To Sale
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOProcMemo.ClearGridData">
+            <summary>
+            Clear All Grid Data
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Sales.BOProcMemo.JangadDetView">
+            <summary>
+            Jangad Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Sales.BOProcMemo.StoneDetView">
+            <summary>
+            Stone Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Sales.BOProcMemo.BuyerPrintDet">
+            <summary>
+            Buyer Print Detail
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Sales.BOStoneDetail">
+            <summary>
+            Packet Stone Detail
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Sales.BOStoneDetail.SaveRecord(System.String,System.String,System.String,System.String,System.String,System.String,System.Double,System.Double,System.Double,System.Double,System.Double,System.Int32)">
+            <summary>
+            Save Jangad Stone
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Sales.BOStoneDetail.TRNMAST">
+            <summary>
+            Packet Main Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Sales.BOStoneDetail.TRNLABMAST">
+            <summary>
+            Packet Lab Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Sales.BOStoneDetail.STDPHOTO">
+            <summary>
+            STD Photos View
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Stock.BORfidTagWriter">
+            <summary>
+            Rfid Tag Writer
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Stock.BOExportView">
+            <summary>
+            Export View
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Stock.BOExportView.SaveSaleToJan(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Sale To Jangad
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Stock.BOExportView.CheckRemoveStone(System.String)">
+            <summary>
+            Check Stone List Before Remove
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Stock.BOExportView.ClearGridData">
+            <summary>
+            Clear All Grid Data
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Stock.BOMainStockView">
+            <summary>
+            Main Stock View
+            </summary>
+        </member>
+        <member name="F:BusLib.Solitaire.Stock.BOPrePlanStock.mJangadDetView">
+            <summary>
+            Jangad Details
+            </summary>
+        </member>
+        <member name="F:BusLib.Solitaire.Stock.BOPrePlanStock.mStoneDetView">
+            <summary>
+            Stone Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Stock.BOPrePlanStock.FillJangad(System.String,System.String,System.String,System.String,System.String,System.String,System.Boolean,System.Boolean)">
+            <summary>
+            Fill Jangad Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Stock.BOPrePlanStock.FillManualJangad">
+            <summary>
+            Fill Manual Jangad Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Stock.BOPrePlanStock.FindPktDet(System.String,System.Int32)">
+            <summary>
+            Fill Stone Details
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Stock.BOPrePlanStock.SaveStoneSplitJangad(System.String,System.String,System.Int32,System.String,System.String,System.Int32)">
+            <summary>
+            Split Stone Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Stock.BOPrePlanStock.SaveStoneSplitManualJangad(System.String,System.Int32,System.Int32)">
+            <summary>
+            Split Stone Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Stock.BOPrePlanStock.SaveMergeJangad(System.String,System.String,System.Int32)">
+            <summary>
+            Merge Jangad Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Solitaire.Stock.BOPrePlanStock.ClearGridData">
+            <summary>
+            Clear All Grid Data
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Stock.BOStockInward">
+            <summary>
+            Main Stock Inward
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Stock.BOStockViewVerify">
+            <summary>
+            Stock View And Verify
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Stock.BOStockViewVerify.StockSalePcs">
+            <summary>
+            Stock Sale Common Pcs
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Stock.BOStockViewVerify.StoneDetExcel">
+            <summary>
+            Stock Sale Common Pcs
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Stock.PurTrfEnt.BOPurchaseEntry">
+            <summary>
+            Purchase Entry
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Stock.PurTrfEnt.BOTransferEntry">
+            <summary>
+            Transfer Entry
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Stock.PurTrfEnt.ClsPurchaseEntry">
+            <summary>
+            Purchase Entry Poperty Parameter
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Stock.PurTrfEnt.ClsTransferEntry">
+            <summary>
+            Transfer Entry Poperty Parameter
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Stock.StockInward.BOStockAccView">
+            <summary>
+            Stock Account View
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.StockView.BOMainStkHistoryView">
+            <summary>
+            Main Stock History View
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Stock.StockView.BOMainStkInward">
+            <summary>
+            Main Stock Inward
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Stock.StockView.BOMainStkInward.InwardFromLab">
+            <summary>
+            Inward From Grading
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Stock.StockView.BOMainStkInward.InwardFromMAT">
+            <summary>
+            Inward From Mat
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Stock.StockView.BOMainStkInward.InwardFromMFG">
+            <summary>
+            Inward From MFG
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Stock.StockView.BOMainStkInward.InwardDetail">
+            <summary>
+            Inward Stone Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Stock.StockView.BOMainStkInward.InwardErrorDetail">
+            <summary>
+            Inward Stone Validation Error Details
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Grading.StockView.BOMainStkJanHistView">
+            <summary>
+            Main Stock Jangad History View
+            </summary>
+        </member>
+        <member name="T:BusLib.Solitaire.Stock.StockView.BOMainStkOutward">
+            <summary>
+            Main Stock Outward
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Stock.StockView.BOMainStkOutward.OutwardToGrading">
+            <summary>
+            Outward To Grading
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Stock.StockView.BOMainStkOutward.OutwardToPhoto">
+            <summary>
+            Outward To Photo
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Stock.StockView.BOMainStkOutward.OutwardToMAT">
+            <summary>
+            Inward To MAT
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Stock.StockView.BOMainStkOutward.OutwardToMFG">
+            <summary>
+            Outward To Mfg
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Stock.StockView.BOMainStkOutward.OutwardDetail">
+            <summary>
+            Outward Stone Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Solitaire.Stock.StockView.BOMainStkOutward.OutwardErrorDetail">
+            <summary>
+            Outward Stone Validation Error Details
+            </summary>
+        </member>
+        <member name="P:BusLib.Utility.BOCrmFillCombo.IsOrderBy">
+            <summary>ISOrder [0/1]
+            This Property Is Used For Setting Order By Sorting
+            [ 0 = Order By Code
+            1 = Order By Ord Field ]
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOFieldChecker">
+            <summary>
+            Database Field Checker
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOComputerMast">
+            <summary>
+            Computer Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOCsvWriter">
+            <summary>
+            CSV Reader And Writer
+            </summary>
+        </member>
+        <member name="M:BusLib.Utility.BOCsvWriter.DataTableToCSV(System.Data.DataTable,System.String,System.Boolean)">
+            <summary>
+            Write Data To CSV With All Columns
+            </summary>
+            <param name="sourceTable"></param>
+            <param name="pFileNameWithPath"></param>
+            <param name="includeHeaders"></param>
+        </member>
+        <member name="M:BusLib.Utility.BOCsvWriter.DataTableToCSV(System.Data.DataTable,System.String,System.String)">
+            <summary>
+            Write Data To CSV With Selected Columns
+            </summary>
+            <param name="dtDataTable"></param>
+            <param name="strFilePath"></param>
+            <param name="ColumnList"></param>
+        </member>
+        <member name="P:BusLib.Utility.BOFillCombo.IsOrderBy">
+            <summary>ISOrder [0/1]
+            This Property Is Used For Setting Order By Sorting
+            [ 0 = Order By Code
+            1 = Order By Ord Field ]
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOFindConfig">
+            <summary>
+            To Find Configuration Table Data
+            </summary>
+        </member>
+        <member name="M:BusLib.Utility.BOFindConfig.GetConvRate">
+            <summary>
+            Get Conversation Rate
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BusLib.Utility.BOFindConfig.IsSaleActive">
+            <summary>
+            Get Sale Is Active or Not
+            </summary>
+            <returns>boolean</returns>
+        </member>
+        <member name="M:BusLib.Utility.BOFindConfig.GetCurrentYear">
+            <summary>
+            Get Current Sale Year
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BusLib.Utility.BOFindConfig.IsEmergancyExit">
+            <summary>
+            Get Is Emergancy Exit Or Not
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BusLib.Utility.BOFindJangad.FindProcessJangad(System.String,System.Int32,System.Int32,System.String,System.Int32)">
+            <summary>
+            Find Process Unique Jangad Number
+            </summary>
+            <param name="pJanDate">Current date (Format = "dd/MM/yyyy")</param>
+            <param name="pFromPrcCode">From Process</param>
+            <param name="pToPrcCode">To Process</param>
+            <param name="pProcess">Process Code Like Issue Or Receive</param>
+            <param name="pFormId">Form Id</param>
+            <returns>New Unique Jangad Number</returns>
+        </member>
+        <member name="M:BusLib.Utility.BOFindJangad.FindMainJangad(System.String,System.Int32,System.String,System.String,System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Find Global Main Jangad Number
+            </summary>
+            <param name="pJanDate">Jangad Date</param>
+            <param name="pJanPcs">Jangad Pcs</param>
+            <param name="pPartyCode">Party Code</param>
+            <param name="pBrokCode">Broker Code</param>
+            <param name="pBuyerCode">Buyer Code</param>
+            <param name="pTotAmount">Total Amount</param>
+            <param name="pSysDisAmount">System Discount Amount</param>
+            <param name="pGivenDiscAmount">Given Discount Amount</param>
+            <param name="pInvoiceGenerate">Is Invoice Generate</param>
+            <param name="pRemark">Remark</param>
+            <param name="pFormId">Form Id</param>
+            <returns></returns>
+        </member>
+        <member name="M:BusLib.Utility.BOFindRap.FindRapOrg">
+            <summary>
+            Find Original Rapaport
+            </summary>
+        </member>
+        <member name="M:BusLib.Utility.BOFindRap.AddDataRow(System.String,System.Double,System.Double,System.String)">
+            <summary>
+            Adding DaraRow To Display Dataset
+            </summary>
+            <param name="pDescription">Discount Description</param>
+            <param name="pDiscount">Percentage</param>
+            <param name="pRate">Rate</param>
+        </member>
+        <member name="P:BusLib.Utility.BOFindRap.RapDetView">
+            <summary>
+            Rapaport Detail View With Description, Discount And Rate.
+            </summary>
+        </member>
+        <member name="P:BusLib.Utility.BOFindRap.RapParameter">
+            <summary>
+            Rapaport Parameters
+            </summary>
+        </member>
+        <member name="P:BusLib.Utility.BOFindRap.OriginalRap">
+            <summary>
+            Original Rapaport
+            </summary>
+        </member>
+        <member name="P:BusLib.Utility.BOFindRap.DisPer">
+            <summary>
+            Discount Percentage
+            </summary>
+        </member>
+        <member name="P:BusLib.Utility.BOFindRap.DisRate">
+            <summary>
+            Discount Rate
+            </summary>
+        </member>
+        <member name="P:BusLib.Utility.BOFindRap.SystemPer">
+            <summary>
+            System Percentage
+            </summary>
+        </member>
+        <member name="P:BusLib.Utility.BOFindRap.SystemRate">
+            <summary>
+            System Rate;
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOFormControlPer">
+            <summary>
+            Form Control Permission
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOFormEntry">
+            <summary>
+            Form Entry
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOFormPer">
+            <summary> Class Implementation For 
+            Checking Form Level Permission For A Login User In A Perticular 
+            Department
+            </summary>
+        </member>
+        <member name="M:BusLib.Utility.BOFormPer.SetFormPer">
+             <summary>Method That Set Form Level Permission
+            
+             </summary>
+             <param name="pStrFormName">Name Of Form</param>
+        </member>
+        <member name="M:BusLib.Utility.BOFormPer.CheckPer">
+             <summary> Method Use To Check Permission form Wise
+            
+             </summary>
+             <returns>Return True if user have Permmistion </returns>
+        </member>
+        <member name="P:BusLib.Utility.BOFormPer.FormPassWord">
+            <summary>Property FormPassWord
+            Get Form Level PassWord String
+            Of A User
+            </summary>
+        </member>
+        <member name="P:BusLib.Utility.BOFormPer.SuperPassWord">
+            <summary>Property FormPassWord
+            Get Form Level PassWord String
+            Of A User
+            </summary>
+        </member>
+        <member name="P:BusLib.Utility.BOFormPer.AllowInsert">
+            <summary>Property AllowInsert
+            Check Form Level Insert Permission
+            Of A User And Return True Or False Based 
+            On Given Permission
+            </summary>
+        </member>
+        <member name="P:BusLib.Utility.BOFormPer.AllowUpdate">
+            <summary>Property AllowUpdate
+            Check Form Level Update Permission
+            Of A User And Return True Or False Based 
+            On Given Permission
+            </summary>
+        </member>
+        <member name="P:BusLib.Utility.BOFormPer.AllowDelete">
+            <summary>Property AllowDelete
+            Check Form Level Delete Permission
+            Of A User And Return True Or False Based 
+            On Given Permission
+            </summary>
+        </member>
+        <member name="P:BusLib.Utility.BOFormPer.AllowView">
+            <summary>Property AllowView
+            Check Form Level View Permission
+            Of A User And Return True Or False Based 
+            On Given Permission
+            </summary>
+        </member>
+        <member name="P:BusLib.Utility.BOFormPer.PermissionCheck">
+            <summary>Property PermissionCheck
+            Check That Permission Is Set For A Perticular Form 
+            Return True Or False Based 
+            On Given Permission
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOGetLotSerNo">
+            <summary>
+            To Get Lot And Serial Number Using StoneId
+            </summary>
+        </member>
+        <member name="T:Solitaire.Utility.BOMultiSelect">
+            <summary>
+            Multi Selection Class
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOMyAccount">
+            <summary>
+            User Account Information
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOPassChange">
+            <summary>
+            To Change User Password
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOReportListMast">
+            <summary>
+            Report List Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOReportPerMast">
+            <summary>
+            Report Permission Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOSelFancyCol">
+            <summary>
+            Fancy Color Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOStoneAlert">
+            <summary>
+            Stone Alert
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.BOUserPerMast">
+            <summary>
+            User Permission Master
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.FormAnimation.BOWindowsAPI">
+            <summary>
+            Win32 implementation to show / hide a window with animation.
+            </summary>
+        </member>
+        <member name="F:BusLib.Utility.FormAnimation.BOWindowsAPI.AW_HOR_POSITIVE">
+            <summary>
+            Animates the window from left to right. This flag can be used with roll or slide animation.
+            </summary>
+        </member>
+        <member name="F:BusLib.Utility.FormAnimation.BOWindowsAPI.AW_HOR_NEGATIVE">
+            <summary>
+            Animates the window from right to left. This flag can be used with roll or slide animation.
+            </summary>
+        </member>
+        <member name="F:BusLib.Utility.FormAnimation.BOWindowsAPI.AW_VER_POSITIVE">
+            <summary>
+            Animates the window from top to bottom. This flag can be used with roll or slide animation.
+            </summary>
+        </member>
+        <member name="F:BusLib.Utility.FormAnimation.BOWindowsAPI.AW_VER_NEGATIVE">
+            <summary>
+            Animates the window from bottom to top. This flag can be used with roll or slide animation.
+            </summary>
+        </member>
+        <member name="F:BusLib.Utility.FormAnimation.BOWindowsAPI.AW_CENTER">
+            <summary>
+            Makes the window appear to collapse inward if AW_HIDE is used or expand outward if the AW_HIDE is not used.
+            </summary>
+        </member>
+        <member name="F:BusLib.Utility.FormAnimation.BOWindowsAPI.AW_HIDE">
+            <summary>
+            Hides the window. By default, the window is shown.
+            </summary>
+        </member>
+        <member name="F:BusLib.Utility.FormAnimation.BOWindowsAPI.AW_ACTIVATE">
+            <summary>
+            Activates the window.
+            </summary>
+        </member>
+        <member name="F:BusLib.Utility.FormAnimation.BOWindowsAPI.AW_SLIDE">
+            <summary>
+            Uses slide animation. By default, roll animation is used.
+            </summary>
+        </member>
+        <member name="F:BusLib.Utility.FormAnimation.BOWindowsAPI.AW_BLEND">
+            <summary>
+            Uses a fade effect. This flag can be used only if hwnd is a top-level window.
+            </summary>
+        </member>
+        <member name="M:BusLib.Utility.FormAnimation.BOWindowsAPI.AnimateWindow(System.IntPtr,System.Int32,System.Int32)">
+            <summary>
+            Animates a window.
+            </summary>
+        </member>
+        <member name="T:BusLib.Utility.Controls.BOSendToProcess">
+            <summary>
+            Send To Internal Process
+            </summary>
+        </member>
+        <member name="M:BusLib.Utility.Controls.BOSendToProcess.CheckStoneID(System.String)">
+            <summary>
+            Check Stone List Before Save
+            </summary>
+        </member>
+        <member name="M:BusLib.Utility.Controls.BOSendToProcess.CreateMainJangad(System.String,System.String,System.String,System.String,System.String,System.String,System.Double,System.Double,System.Double,System.Double,System.Int32)">
+            <summary>
+            Check Stone List Before Make Jangad
+            </summary>
+        </member>
+        <member name="P:BusLib.Utility.Controls.BOSendToProcess.DaypStoneCheckDet">
+            <summary>
+            Dayp Stone Checking Details
+            </summary>
+        </member>
+    </members>
+</doc>

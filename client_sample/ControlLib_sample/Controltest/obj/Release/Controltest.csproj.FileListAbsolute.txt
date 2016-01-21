@@ -1,0 +1,6 @@
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\bin\Release\Controltest.exe.config
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\obj\Release\Controltest.Form1.resources
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\obj\Release\Controltest.Form2.resources
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\obj\Release\Controltest.Properties.Resources.resources
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\obj\Release\Controltest.csproj.GenerateResource.Cache
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\obj\Release\Controltest.exe.licenses

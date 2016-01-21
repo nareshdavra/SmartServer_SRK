@@ -1,0 +1,5 @@
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\x64\Release\ControlLib.Properties.Resources.resources
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\x64\Release\ControlLib.Rfid.RfidReader.resources
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\x64\Release\ControlLib.UCtrlSendToProcess.resources
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\x64\Release\ControlLib.csproj.GenerateResource.Cache
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\x64\Release\ControlLib.dll.licenses

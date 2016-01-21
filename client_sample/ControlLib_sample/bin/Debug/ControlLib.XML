@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ControlLib</name>
+    </assembly>
+    <members>
+        <member name="F:ControlLib.Rfid.RfidReader.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ControlLib.Rfid.RfidReader.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ControlLib.Rfid.RfidReader.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:ControlLib.Rfid.RfidReader.MessageDisplayPosition">
+            <summary>
+            Message Display Position
+            </summary>
+        </member>
+        <member name="P:ControlLib.Rfid.RfidReader.WidthButton">
+            <summary>
+            Button Width
+            </summary>
+        </member>
+        <member name="P:ControlLib.Rfid.RfidReader.WidthRfidCount">
+            <summary>
+            Rfid Counter Width
+            </summary>
+        </member>
+        <member name="P:ControlLib.Rfid.RfidReader.RFIDIPAddress">
+            <summary>
+            RFID Ip Address
+            </summary>
+        </member>
+        <member name="P:ControlLib.Rfid.RfidReader.SpaceCodeIPList">
+            <summary>
+            Space Code IP List With Comma(,) Seperated.
+            </summary>
+        </member>
+        <member name="P:ControlLib.Rfid.RfidReader.RfidTagList">
+            <summary>
+            Rfid Tag List
+            </summary>
+        </member>
+        <member name="P:ControlLib.Rfid.RfidReader.SingleRfidTag">
+            <summary>
+            Get Rfid Machine Reading Tag At Scanning Time.
+            </summary>
+        </member>
+        <member name="P:ControlLib.Rfid.RfidReader.DisableAutoStop">
+            <summary>
+            To Disable Auto Stop Rfid Scan
+            </summary>
+        </member>
+        <member name="P:ControlLib.Rfid.TcpV3.BlnDisableAutoStop">
+            <summary>
+            To Disable Auto Stop Rfid Scan
+            </summary>
+        </member>
+        <member name="F:ControlLib.UCtrlSendToProcess.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ControlLib.UCtrlSendToProcess.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ControlLib.UCtrlSendToProcess.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:ControlLib.UCtrlSendToProcess.StoneIdList">
+            <summary>
+            StoneId List
+            </summary>
+        </member>
+        <member name="F:ControlLib.UltraTabControl.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ControlLib.UltraTabControl.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ControlLib.UltraTabControl.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:ControlLib.UltraTabControl.ResetProperty">
+            <summary>
+            Reset Default Property
+            </summary>
+        </member>
+    </members>
+</doc>

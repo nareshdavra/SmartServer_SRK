@@ -1,0 +1,232 @@
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\ControlLib.XML
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\ControlLib.dll
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\ControlLib.pdb
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\BusLib.dll
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\DataClass.dll
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\ModCont.dll
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\TAGMR.dll
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\TcpIP_class.dll
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\DataLib.dll
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\ErrorMessage.dll
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_Fingerprint.dll
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_RfidReader.dll
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_RFID_Devices.dll
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_MedicalCabinet.dll
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_AccessControl.dll
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\BusLib.pdb
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\bin\Debug\BusLib.xml
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.csprojResolveAssemblyReference.cache
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.Rfid.RfidReader.resources
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.UCtrlSendToProcess.resources
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.csproj.GenerateResource.Cache
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.dll.licenses
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.dll
+E:\Work\Solitaire\Solitaire 150516 latest\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.pdb
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\ControlLib.XML
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\ControlLib.dll
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\ControlLib.pdb
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\BusLib.dll
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\DataClass.dll
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\ModCont.dll
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\TAGMR.dll
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\TcpIP_class.dll
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\DataLib.dll
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\ErrorMessage.dll
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_Fingerprint.dll
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_RfidReader.dll
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_RFID_Devices.dll
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_MedicalCabinet.dll
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_AccessControl.dll
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\BusLib.pdb
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\BusLib.xml
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.csprojResolveAssemblyReference.cache
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.Rfid.RfidReader.resources
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.UCtrlSendToProcess.resources
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.csproj.GenerateResource.Cache
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.dll.licenses
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.dll
+E:\Work\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.pdb
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\ControlLib.dll
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\ControlLib.pdb
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\BusLib.dll
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\DataClass.dll
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\ModCont.dll
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\TAGMR.dll
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\TcpIP_class.dll
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\DataLib.dll
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\ErrorMessage.dll
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\SDK_SC_Fingerprint.dll
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\SDK_SC_RfidReader.dll
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\SDK_SC_RFID_Devices.dll
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\SDK_SC_MedicalCabinet.dll
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\SDK_SC_AccessControl.dll
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\BusLib.pdb
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\bin\Debug\BusLib.xml
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\obj\Debug\ControlLib.csprojResolveAssemblyReference.cache
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\obj\Debug\ControlLib.Rfid.RfidReader.resources
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\obj\Debug\ControlLib.UCtrlSendToProcess.resources
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\obj\Debug\ControlLib.csproj.GenerateResource.Cache
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\obj\Debug\ControlLib.dll.licenses
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\obj\Debug\ControlLib.dll
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\obj\Debug\ControlLib.pdb
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\obj\Debug\ControlLib.UCtrlFileDownload.resources
+E:\Work\Solitaire\Solitaire 150523 0334\ControlLib\obj\Debug\ControlLib.Properties.Resources.resources
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\ControlLib.XML
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\ControlLib.dll
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\ControlLib.pdb
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\BusLib.dll
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\DataClass.dll
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\ModCont.dll
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\TAGMR.dll
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\TcpIP_class.dll
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\DataLib.dll
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\ErrorMessage.dll
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_Fingerprint.dll
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_RfidReader.dll
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_RFID_Devices.dll
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_MedicalCabinet.dll
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_AccessControl.dll
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\BusLib.pdb
+D:\Solitaire\Solitaire\Solitaire\ControlLib\bin\Debug\BusLib.xml
+D:\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.csprojResolveAssemblyReference.cache
+D:\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.UCtrlFileDownload.resources
+D:\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.Properties.Resources.resources
+D:\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.Rfid.RfidReader.resources
+D:\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.UCtrlSendToProcess.resources
+D:\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.csproj.GenerateResource.Cache
+D:\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.dll.licenses
+D:\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.dll
+D:\Solitaire\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.pdb
+E:\Work\Library\ControlLib\obj\Debug\ControlLib.csprojResolveAssemblyReference.cache
+E:\Work\Library\ControlLib\obj\Debug\ControlLib.UCtrlFileDownload.resources
+E:\Work\Library\ControlLib\obj\Debug\ControlLib.Properties.Resources.resources
+E:\Work\Library\ControlLib\obj\Debug\ControlLib.Rfid.RfidReader.resources
+E:\Work\Library\ControlLib\obj\Debug\ControlLib.UCtrlSendToProcess.resources
+E:\Work\Library\ControlLib\obj\Debug\ControlLib.csproj.GenerateResource.Cache
+E:\Work\Library\ControlLib\obj\Debug\ControlLib.dll.licenses
+E:\Work\Library\ControlLib\obj\Debug\ControlLib.dll
+E:\Work\Library\ControlLib\obj\Debug\ControlLib.pdb
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\ControlLib.XML
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\ControlLib.dll
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\ControlLib.pdb
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\BusLib.dll
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\DataClass.dll
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\ModCont.dll
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\TAGMR.dll
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\TcpIP_class.dll
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\DataLib.dll
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\ErrorMessage.dll
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\SDK_SC_Fingerprint.dll
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\SDK_SC_RfidReader.dll
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\SDK_SC_RFID_Devices.dll
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\SDK_SC_MedicalCabinet.dll
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\SDK_SC_AccessControl.dll
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\BusLib.pdb
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\bin\Debug\BusLib.xml
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\obj\Debug\ControlLib.csprojResolveAssemblyReference.cache
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\obj\Debug\ControlLib.UCtrlFileDownload.resources
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\obj\Debug\ControlLib.Properties.Resources.resources
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\obj\Debug\ControlLib.Rfid.RfidReader.resources
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\obj\Debug\ControlLib.UCtrlSendToProcess.resources
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\obj\Debug\ControlLib.csproj.GenerateResource.Cache
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\obj\Debug\ControlLib.dll.licenses
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\obj\Debug\ControlLib.dll
+E:\Work\Solitaire\Solitaire backup\Solitaire\ControlLib\obj\Debug\ControlLib.pdb
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\ControlLib.XML
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\ControlLib.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\ControlLib.pdb
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\BusLib.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\DataClass.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\ErrorMessage.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\ModCont.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\RFID_static_lib.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_AccessControl.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_Fingerprint.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_MedicalCabinet.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_RfidReader.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_Rfid_And_Scale.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\SDK_SC_RFID_Devices.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\TAGMR.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\TcpIP_class.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\DataLib.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\BusLib.pdb
+E:\Work\Solitaire\Solitaire\ControlLib\bin\Debug\BusLib.xml
+E:\Work\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.csprojResolveAssemblyReference.cache
+E:\Work\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.UCtrlFileDownload.resources
+E:\Work\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.Properties.Resources.resources
+E:\Work\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.Rfid.RfidReader.resources
+E:\Work\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.UCtrlSendToProcess.resources
+E:\Work\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.csproj.GenerateResource.Cache
+E:\Work\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.dll.licenses
+E:\Work\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.dll
+E:\Work\Solitaire\Solitaire\ControlLib\obj\Debug\ControlLib.pdb
+D:\RFID\ControlLib\bin\Debug\ControlLib.XML
+D:\RFID\ControlLib\bin\Debug\ControlLib.dll
+D:\RFID\ControlLib\bin\Debug\ControlLib.pdb
+D:\RFID\ControlLib\bin\Debug\BusLib.dll
+D:\RFID\ControlLib\bin\Debug\DataLib.dll
+D:\RFID\ControlLib\bin\Debug\BusLib.pdb
+D:\RFID\ControlLib\bin\Debug\BusLib.xml
+D:\RFID\ControlLib\obj\Debug\ControlLib.UCtrlFileDownload.resources
+D:\RFID\ControlLib\obj\Debug\ControlLib.Properties.Resources.resources
+D:\RFID\ControlLib\obj\Debug\ControlLib.Rfid.RfidReader.resources
+D:\RFID\ControlLib\obj\Debug\ControlLib.UCtrlSendToProcess.resources
+D:\RFID\ControlLib\obj\Debug\ControlLib.csproj.GenerateResource.Cache
+D:\RFID\ControlLib\obj\Debug\ControlLib.dll.licenses
+D:\RFID\ControlLib\obj\Debug\ControlLib.dll
+D:\RFID\ControlLib\obj\Debug\ControlLib.pdb
+D:\RFID\ControlLib\obj\Debug\ControlLib.csprojResolveAssemblyReference.cache
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\Debug\ControlLib.XML
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\Debug\ControlLib.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\Debug\ControlLib.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\Debug\DataLib.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\Debug\BusLib.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\Debug\BusLib.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\Debug\ControlLib.csprojResolveAssemblyReference.cache
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\Debug\ControlLib.Properties.Resources.resources
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\Debug\ControlLib.Rfid.RfidReader.resources
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\Debug\ControlLib.UCtrlSendToProcess.resources
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\Debug\ControlLib.csproj.GenerateResource.Cache
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\Debug\ControlLib.dll.licenses
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\Debug\ControlLib.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\Debug\ControlLib.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\obj\Debug\ControlLib.csprojResolveAssemblyReference.cache
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\obj\Debug\ControlLib.Properties.Resources.resources
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\obj\Debug\ControlLib.Rfid.RfidReader.resources
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\obj\Debug\ControlLib.UCtrlSendToProcess.resources
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\obj\Debug\ControlLib.csproj.GenerateResource.Cache
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\obj\Debug\ControlLib.dll.licenses
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\ControlLib.XML
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\ControlLib.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\ControlLib.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\TcpIP_class.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\SDK_SC_Fingerprint.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\SDK_SC_RFID_Devices.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\DBClass.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\MySql.Data.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\SDK_SC_RfidReader.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\ErrorMessage.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\SDK_SC_MedicalCabinet.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\TcpIP_class.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\obj\Debug\ControlLib.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\obj\Debug\ControlLib.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\obj\Debug\ControlLib.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\obj\Debug\ControlLib.Rfid.RfidReader.resources
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\obj\Debug\ControlLib.UCtrlSendToProcess.resources
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\obj\Debug\ControlLib.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\obj\Debug\ControlLib.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\obj\Debug\ControlLib.pdb
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\ControlLib.XML
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\ControlLib.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\ControlLib.pdb
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\log4net.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\TcpIP_class.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\SDK_SC_Fingerprint.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\SDK_SC_RFID_Devices.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\DBClass.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\MySql.Data.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\SDK_SC_RfidReader.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\ErrorMessage.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\SDK_SC_MedicalCabinet.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\bin\Debug\TcpIP_class.pdb

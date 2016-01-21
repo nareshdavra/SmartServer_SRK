@@ -1,0 +1,120 @@
+D:\RFID\Controltest\bin\Debug\Controltest.exe.config
+D:\RFID\Controltest\bin\Debug\Controltest.exe
+D:\RFID\Controltest\bin\Debug\Controltest.pdb
+D:\RFID\Controltest\bin\Debug\BusLib.dll
+D:\RFID\Controltest\bin\Debug\ControlLib.dll
+D:\RFID\Controltest\bin\Debug\DataClass.dll
+D:\RFID\Controltest\bin\Debug\ModCont.dll
+D:\RFID\Controltest\bin\Debug\SDK_SC_RfidReader.dll
+D:\RFID\Controltest\bin\Debug\TAGMR.dll
+D:\RFID\Controltest\bin\Debug\TcpIP_class.dll
+D:\RFID\Controltest\bin\Debug\DataLib.dll
+D:\RFID\Controltest\bin\Debug\ErrorMessage.dll
+D:\RFID\Controltest\bin\Debug\SDK_SC_Fingerprint.dll
+D:\RFID\Controltest\bin\Debug\SDK_SC_RFID_Devices.dll
+D:\RFID\Controltest\bin\Debug\SDK_SC_MedicalCabinet.dll
+D:\RFID\Controltest\bin\Debug\SDK_SC_AccessControl.dll
+D:\RFID\Controltest\bin\Debug\ControlLib.pdb
+D:\RFID\Controltest\bin\Debug\ControlLib.xml
+D:\RFID\Controltest\bin\Debug\BusLib.pdb
+D:\RFID\Controltest\bin\Debug\BusLib.xml
+D:\RFID\Controltest\obj\Debug\Controltest.csprojResolveAssemblyReference.cache
+D:\RFID\Controltest\obj\Debug\Controltest.Form1.resources
+D:\RFID\Controltest\obj\Debug\Controltest.Form2.resources
+D:\RFID\Controltest\obj\Debug\Controltest.Properties.Resources.resources
+D:\RFID\Controltest\obj\Debug\Controltest.csproj.GenerateResource.Cache
+D:\RFID\Controltest\obj\Debug\Controltest.exe
+D:\RFID\Controltest\obj\Debug\Controltest.pdb
+D:\RFID\Controltest\obj\Debug\Controltest.exe.licenses
+D:\RFID\ControlLib\Controltest\bin\Debug\Controltest.exe.config
+D:\RFID\ControlLib\Controltest\obj\Debug\Controltest.exe
+D:\RFID\ControlLib\Controltest\obj\Debug\Controltest.pdb
+D:\RFID\ControlLib\Controltest\bin\Debug\Controltest.exe
+D:\RFID\ControlLib\Controltest\bin\Debug\Controltest.pdb
+D:\RFID\ControlLib\Controltest\bin\Debug\ControlLib.dll
+D:\RFID\ControlLib\Controltest\bin\Debug\DataLib.dll
+D:\RFID\ControlLib\Controltest\bin\Debug\ErrorMessage.dll
+D:\RFID\ControlLib\Controltest\bin\Debug\SDK_SC_Fingerprint.dll
+D:\RFID\ControlLib\Controltest\bin\Debug\SDK_SC_RFID_Devices.dll
+D:\RFID\ControlLib\Controltest\bin\Debug\SDK_SC_MedicalCabinet.dll
+D:\RFID\ControlLib\Controltest\bin\Debug\SDK_SC_AccessControl.dll
+D:\RFID\ControlLib\Controltest\bin\Debug\ControlLib.pdb
+D:\RFID\ControlLib\Controltest\bin\Debug\ControlLib.xml
+D:\RFID\ControlLib\Controltest\bin\Debug\BusLib.pdb
+D:\RFID\ControlLib\Controltest\bin\Debug\BusLib.xml
+D:\RFID\ControlLib\Controltest\obj\Debug\Controltest.csprojResolveAssemblyReference.cache
+D:\RFID\ControlLib\Controltest\obj\Debug\Controltest.Form1.resources
+D:\RFID\ControlLib\Controltest\obj\Debug\Controltest.Form2.resources
+D:\RFID\ControlLib\Controltest\obj\Debug\Controltest.Properties.Resources.resources
+D:\RFID\ControlLib\Controltest\obj\Debug\Controltest.csproj.GenerateResource.Cache
+D:\RFID\ControlLib\Controltest\obj\Debug\Controltest.exe.licenses
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\bin\Debug\Controltest.exe.config
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\obj\Debug\Controltest.exe
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\obj\Debug\Controltest.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\bin\Debug\Controltest.exe
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\bin\Debug\Controltest.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\bin\Debug\ControlLib.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\bin\Debug\DataLib.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\bin\Debug\ErrorMessage.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\bin\Debug\SDK_SC_Fingerprint.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\bin\Debug\SDK_SC_RFID_Devices.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\bin\Debug\SDK_SC_MedicalCabinet.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\bin\Debug\SDK_SC_AccessControl.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\bin\Debug\ControlLib.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\bin\Debug\ControlLib.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\bin\Debug\BusLib.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\bin\Debug\BusLib.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\obj\Debug\Controltest.csprojResolveAssemblyReference.cache
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\obj\Debug\Controltest.Form1.resources
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\obj\Debug\Controltest.Form2.resources
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\obj\Debug\Controltest.Properties.Resources.resources
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\obj\Debug\Controltest.csproj.GenerateResource.Cache
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\Controltest\obj\Debug\Controltest.exe.licenses
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.csprojResolveAssemblyReference.cache
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.Form1.resources
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.Form2.resources
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.Properties.Resources.resources
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.csproj.GenerateResource.Cache
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.exe.licenses
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\Controltest.exe.config
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\Controltest.exe
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\Controltest.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\ControlLib.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\TcpIP_class.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\DataClass.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\SDK_SC_Fingerprint.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\SDK_SC_RFID_Devices.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\DBClass.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\MySql.Data.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\SDK_SC_RfidReader.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\ErrorMessage.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\SDK_SC_MedicalCabinet.dll
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\ControlLib.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\ControlLib.xml
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\TcpIP_class.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.exe
+C:\Users\MY\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.pdb
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\Controltest.exe.config
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.exe
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.pdb
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.Form1.resources
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.Form2.resources
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.Properties.Resources.resources
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\Controltest.exe
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\Controltest.pdb
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\ControlLib.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\TcpIP_class.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\DataClass.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\SDK_SC_Fingerprint.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\SDK_SC_RFID_Devices.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\DBClass.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\MySql.Data.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\SDK_SC_RfidReader.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\ErrorMessage.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\SDK_SC_MedicalCabinet.dll
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\ControlLib.pdb
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\ControlLib.xml
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\bin\Debug\TcpIP_class.pdb
+C:\Users\admin\Desktop\SRK pilot\Srk_latest\ControlLib\Controltest\obj\Debug\Controltest.exe.licenses

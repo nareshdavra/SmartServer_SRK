@@ -1,0 +1,66 @@
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\ControlLib.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\ControlLib.pdb
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\ControlLib.XML
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\BusLib.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\DataClass.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\ErrorMessage.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\ModCont.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\RFID_static_lib.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\SDK_SC_AccessControl.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\SDK_SC_Fingerprint.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\SDK_SC_MedicalCabinet.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\SDK_SC_RfidReader.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\SDK_SC_Rfid_And_Scale.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\SDK_SC_RFID_Devices.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\TAGMR.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\TcpIP_class.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\DataLib.dll
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\BusLib.pdb
+E:\Work\Solitaire\Solitaire\ControlLib\bin\x64\Debug\BusLib.xml
+E:\Work\Solitaire\Solitaire\ControlLib\obj\x64\Debug\ControlLib.csprojResolveAssemblyReference.cache
+E:\Work\Solitaire\Solitaire\ControlLib\obj\x64\Debug\ControlLib.UCtrlFileDownload.resources
+E:\Work\Solitaire\Solitaire\ControlLib\obj\x64\Debug\ControlLib.Properties.Resources.resources
+E:\Work\Solitaire\Solitaire\ControlLib\obj\x64\Debug\ControlLib.Rfid.RfidReader.resources
+E:\Work\Solitaire\Solitaire\ControlLib\obj\x64\Debug\ControlLib.UCtrlSendToProcess.resources
+E:\Work\Solitaire\Solitaire\ControlLib\obj\x64\Debug\ControlLib.csproj.GenerateResource.Cache
+E:\Work\Solitaire\Solitaire\ControlLib\obj\x64\Debug\ControlLib.dll.licenses
+E:\Work\Solitaire\Solitaire\ControlLib\obj\x64\Debug\ControlLib.dll
+E:\Work\Solitaire\Solitaire\ControlLib\obj\x64\Debug\ControlLib.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\ControlLib.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\ControlLib.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\ControlLib.XML
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Shared.v13.2.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.Misc.v13.2.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.UltraWinTabControl.v13.2.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.v13.2.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\DataLib.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.UltraWinGrid.v13.2.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.UltraWinCalcManager.v13.2.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.UltraWinGrid.ExcelExport.v13.2.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.UltraWinEditors.v13.2.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Documents.Excel.v13.2.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.UltraWinGrid.DocumentExport.v13.2.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Documents.Core.v13.2.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Documents.Reports.v13.2.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\BusLib.pdb
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\BusLib.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Shared.v13.2.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.Misc.v13.2.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.UltraWinTabControl.v13.2.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.v13.2.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.UltraWinGrid.v13.2.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.UltraWinCalcManager.v13.2.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.UltraWinGrid.ExcelExport.v13.2.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.UltraWinEditors.v13.2.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Documents.Excel.v13.2.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Win.UltraWinGrid.DocumentExport.v13.2.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Documents.Core.v13.2.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\bin\x64\Debug\Infragistics4.Documents.Reports.v13.2.xml
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\x64\Debug\ControlLib.csprojResolveAssemblyReference.cache
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\x64\Debug\ControlLib.Properties.Resources.resources
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\x64\Debug\ControlLib.Rfid.RfidReader.resources
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\x64\Debug\ControlLib.UCtrlSendToProcess.resources
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\x64\Debug\ControlLib.csproj.GenerateResource.Cache
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\x64\Debug\ControlLib.dll.licenses
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\x64\Debug\ControlLib.dll
+C:\Users\MY\Desktop\SRK pilot\Srk\ControlLib\obj\x64\Debug\ControlLib.pdb

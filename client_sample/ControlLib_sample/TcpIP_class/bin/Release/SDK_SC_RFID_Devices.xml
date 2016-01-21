@@ -1,0 +1,382 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SDK_SC_RFID_Devices</name>
+    </assembly>
+    <members>
+        <member name="T:SDK_SC_RFID_Devices.NotifyHandlerRFIDDelegate">
+            <summary>
+            Delegate for Notification of the RFID
+            </summary>
+            <param name="sender"></param>
+            <param name="arg"></param>
+        </member>
+        <member name="T:SDK_SC_RFID_Devices.NotifyHandlerFPDelegate">
+            <summary>
+            Delegate for Notification of the FP
+            </summary>
+            <param name="sender"></param>
+            <param name="arg"></param>
+        </member>
+        <member name="T:SDK_SC_RFID_Devices.NotifyHandlerBrDelegate">
+            <summary>
+            Delegate for Notification of badge reader(s)
+            </summary>
+            <param name="sender"></param>
+            <param name="arg"></param>
+        </member>
+        <member name="T:SDK_SC_RFID_Devices.RFID_Device">
+            <summary>
+            Class Device
+            </summary>
+        </member>
+        <member name="F:SDK_SC_RFID_Devices.RFID_Device.previousInventory">
+            <summary>
+            Previoous inventory
+            </summary>
+        </member>
+        <member name="F:SDK_SC_RFID_Devices.RFID_Device.currentInventory">
+            <summary>
+            Current Inventory
+            </summary>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.getRFIDpluggedDevice(System.Boolean)">
+            <summary>
+            Method to retrieve plugged devices
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.getFingerprintPluggedGUID">
+            <summary>
+            Method to retreive FP devices plugged
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.Create_NoFP_Device(System.String)">
+            <summary>
+            Method to create device with no FP (SBR , MC )
+            </summary>
+            <param name="serialNumberRFID">String of the serial number of the RFID </param>
+            <returns>true if created</returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.Create_NoFP_Device(System.String,System.String)">
+            <summary>
+            Method to create device with no Fingerprint (SBR)
+            </summary>
+            <param name="serialNumberRFID"></param>
+            <param name="portCom"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.Create_1FP_Device(System.String,System.String,System.Boolean)">
+            <summary>
+            Method to create device with one FP (DSB , JSC )
+            </summary>
+            <param name="serialNumberRFID">String of the serial number of the RFID</param>
+            <param name="serialNumberFP_Master">String of the serial number of the FP Master</param>
+            <param name="bLoadTemplateFromDB">true to load automatically the FP template from  the local DB access</param>
+            <returns>true if created</returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.Create_1FP_Device(System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            Method to create device with 1 FP (JSC,DSB)
+            </summary>
+            <param name="serialNumberRFID"></param>
+            <param name="portCom"></param>
+            <param name="serialNumberFP_Master"></param>
+            <param name="bLoadTemplateFromDB"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.Create_2FP_Device(System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="serialNumberRFID"></param>
+            <param name="serialNumberFP_Master"></param>
+            <param name="serialNumberFP_Slave"></param>
+            <param name="bLoadTemplateFromDB"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.Create_2FP_Device(System.String,System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            Methods to create device with 2 FP (SAS)
+            </summary>
+            <param name="serialNumberRFID"></param>
+            <param name="portCom"></param>
+            <param name="serialNumberFP_Master"></param>
+            <param name="serialNumberFP_Slave"></param>
+            <param name="bLoadTemplateFromDB"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.Create_2FP_2BR_Device(System.String,System.String,System.String,System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            Methods to create device with 2 FP (SAS)
+            </summary>
+            <param name="serialNumberRFID"></param>
+            <param name="portCom"></param>
+            <param name="serialNumberFP_Master"></param>
+            <param name="serialNumberFP_Slave"></param>
+            <param name="bLoadTemplateFromDB"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.ReleaseDevice">
+            <summary>
+            Function to release the device
+            </summary>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.LoadFPTemplateFromDB(SDK_SC_Fingerprint.FingerPrintClass,DataClass.UserGrant)">
+            <summary>
+            Method to load the template from access
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.LoadFPTemplate(System.String[],SDK_SC_Fingerprint.FingerPrintClass)">
+            <summary>
+            Method to load the template 
+            </summary>
+            <param name="templates"></param>
+            <param name="theFP"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.EnrollUser(System.String,System.String,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="FPSerialNumber"></param>
+            <param name="FirstName"></param>
+            <param name="LastName"></param>
+            <param name="template"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.ScanDevice">
+            <summary>
+            Method to scan a device
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.ScanDevice(System.Boolean)">
+            <summary>
+            Method to scan device
+            </summary>
+            <param name="UseMutex">Control parallele scan or not</param>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.StopScan">
+            <summary>
+            Method to stop a scan
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.UnLock">
+            <summary>
+            method to unlock the door
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.Lock">
+            <summary>
+            method to lock the door
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.SetLight(System.UInt16)">
+            <summary>
+            methos to set the light (0 switch off - 300 max light)
+            </summary>
+            <param name="power"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.EnableWaitMode">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.DisableWaitMode">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.StartLightingLeds(System.Collections.Generic.List{System.String},System.Collections.Hashtable,System.Int32@,System.Int32@)">
+            <summary>
+            Start "step by step" lighting. Will try to turn on led of all tags in tagList
+            </summary>
+            <param name="tagList">List of tags to light on</param>
+            <param name="tagLedStateTable">hashtable string/bool : tagId/state. State : true = lighted</param>
+            <param name="currentChannel">channel (axis number + 1) currently in use</param>
+            <param name="nbLighted">number of tags successfully lighted</param>
+            <returns>true if lastStep (last axis has been browsed). False otherwise.</returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.TestLighting(System.Collections.Generic.List{System.String})">
+            <summary>
+            Turn on the LED of each tag present in tagList, and launches a threaded anonym function that will 
+            light leds periodically (endless, until StopLightingLeds() is called).
+            </summary>
+            <param name="tagList">List of tags to light (tags are removed once they're lighted)</param>
+            <returns>True if all tags in the list has been turned On. False otherwise.</returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.IsSpec2Available">
+            <summary>
+            Used by server to answer client's request (IS_SPEC2AVAIlABLE)
+            </summary>
+            <returns>true if device can handle LEDs lighting (according to its firmware version), false otherwhise.</returns>
+        </member>
+        <member name="M:SDK_SC_RFID_Devices.RFID_Device.GetfirwareVersion">
+            <summary>
+            Used by server to answer client's request (Get Firmware version)
+            </summary>
+            <returns>true if device can handle LEDs lighting (according to its firmware version), false otherwhise.</returns>
+        </member>
+        <member name="E:SDK_SC_RFID_Devices.RFID_Device.NotifyRFIDEvent">
+            <summary>
+            Event variable for RFID events (scan, door opened, etc)
+            </summary>
+        </member>
+        <member name="E:SDK_SC_RFID_Devices.RFID_Device.NotifyFPEvent">
+            <summary>
+            Event variable for Finger print reader (fp touched, user unknown, etc)
+            </summary>
+        </member>
+        <member name="E:SDK_SC_RFID_Devices.RFID_Device.NotifyBrEvent">
+            <summary>
+            Event variable for badge reader
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.get_RFID_Device">
+            <summary>
+            
+            </summary>
+            
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.get_FP_Master">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.get_FP_Slave">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.BrMaster">
+            <summary>
+            Badge reader - Master
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.BrSlave">
+            <summary>
+            Badge reader - Slave
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.UseUTCdateFormat">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.LightInIdle">
+            <summary>
+            Property to set and get Light in Ready Mode
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.LightInScan">
+            <summary>
+            Property to set and get Light in Scan Mode
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.LightDoorOpen">
+            <summary>
+            Property to set and get Light when Door is Open
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.SerialNumberRFID">
+            <summary>
+            Property to  get the Serial number of RFID
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.ConnectionStatus">
+            <summary>
+            Property to  get the Connection Status
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.DeviceStatus">
+            <summary>
+            Property to  get the Device  Status
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.FPStatusMaster">
+            <summary>
+            Property to  get the FingerPrint Master Status
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.FPStatusSlave">
+            <summary>
+            Property to  get the FingerPrint Slave Status
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.LastScanResult">
+            <summary>
+            Property to get the  LastScanResult
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.setPreviousScan">
+            <summary>
+            Property to set the previou scan result
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.InterruptScanWithFP">
+            <summary>
+            Property to setor get the fact to stop scan if a valid finger is verify during scan
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.TimeBeforeCloseLock">
+            <summary>
+            Property to set/Get value in second before close automatically the door
+            </summary>
+        </member>
+        <member name="P:SDK_SC_RFID_Devices.RFID_Device.TimeDoorOpenTooLong">
+            <summary>
+            Property to get/set the time in second before sendthe notification dooropentoolong
+            </summary>
+        </member>
+        <member name="T:SDK_SC_RFID_Devices.deviceClass">
+            <summary>
+            Classe to define a device
+            </summary>
+        </member>
+        <member name="F:SDK_SC_RFID_Devices.deviceClass.infoDev">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SDK_SC_RFID_Devices.deviceClass.rfidDev">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SDK_SC_RFID_Devices.deviceClass.previousInventory">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SDK_SC_RFID_Devices.deviceClass.currentInventory">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SDK_SC_RFID_Devices.deviceClass.bComeFromKZ">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:SDK_SC_RFID_Devices.deviceClass.cptOut">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>
